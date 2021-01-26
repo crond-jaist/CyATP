@@ -1,0 +1,23 @@
+
+.choice {
+    width: 400px;
+    border: 1px solid lightgrey;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+	font-size: 20px;
+}
+
+.qst {
+	padding-right: 85px;
+	white-space: normal;
+	word-wrap: break-spaces;
+	/*word-break: break-all;*/
+}
+
+		@media (max-width: 425px) {
+			.main .choice, .main .generate {
+				display: block;
+				margin: 45px 0;
+			}
+		}

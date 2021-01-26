@@ -1,0 +1,160 @@
+{% extends 'base.html' %}
+
+{%block head%}
+<title>Quiz Page</title>
+<script>
+    document.write("<link rel='stylesheet' href='../static/css/quiz_style.css?time=" + Math.random() + "'>");
+    document.write("<link rel='stylesheet' href='../static/css/star-rating.css?time=" + Math.random() + "'>");
+</script>
+<script src="../static/js/star-rating.js"></script>
+
+{% endblock%}
+
+
+{% block content %}
+
+<div class="container" id="introduce" style="height: 200px">
+    <div class="jumbotron">
+        <h1>Quiz Game</h1>
+        <p>Welcome to the cybersecurity quiz game.</p>
+        <button class="btn btn-primary" id="start">Start Game</button>
+    </div>
+</div>
+
+
+<div class="container-fluid">
+    <div style="display: none" id="show">
+        <div class="row">
+            <div class="col-md-8"></div>
+            <div class="col-md-2">
+                <h2 id="time"></h2>
+            </div>
+        </div>
+
+        <div class="row">
+            <dic class="col-md-2"></dic>
+            <div class="col-md-9" id="game"></div>
+        </div>
+    </div>
+
+</div>
+
+
+<div class="feedback-box">
+    <div class="content"><a class='close' href="#">x</a>
+        <div class="confirm">
+            <h1><strong>BOOOM!</strong> <span>Thank you for your help.</span></h1>
+        </div>
+        <header>Question's Feedback</header>
+        <section style="padding: 20px">
+
+            <p style="font-size:0.9em; margin-bottom: 0;">Please rate the quality of question in this page.</p>
+            <input id="input-id" type="text" class="rating rating-loading" value="2.5" data-size="md" title="">
+
+            <p style="font-size : 0.9em;margin-top: 5px; margin-bottom: 10px;">If you think the quality of this question
+                could be improved, please leave the message in the box below.</p>
+            <textarea name="feedback" id="f_text"></textarea>
+            <f_button id='submit'>Send Feedback</f_button>
+        </section>
+    </div>
+</div>
+
+<f_button style='display: none' id="feedback">Question Evaluation</f_button>
+
+<script type='text/javascript'>
+    document.write("<script type='text/javascript' src='../static/js/question_show.js?time=" + Math.random() + "'></" + "script" + ">")
+</script>
+
+
+<script type='text/javascript'>
+    $('#start').click(function () {
+        $('#introduce').hide();
+        $('#show').show();
+        $('#feedback').show();
+        $('#feedback_box').show();
+    })
+</script>
+
+
+
+<script>
+    $("#input-id").rating();
+    (function ($) {
+        var words = ["Boom!", "Whammy!", "Booya!", "Holler!", "Broskee!", "All Good!", "Right on!"];
+        var feedback = $(".feedback-box");
+
+        //Feedback Toggle
+        $("#feedback").on("click", function () {
+            feedback.addClass("show");
+        });
+
+        //Close Trigger
+        $(".close").on("click", function () {
+            feedback.removeClass("show");
+            setTimeout(function () {
+                feedback.removeClass("show-confirm").find("textarea").val('');
+                console.log("reset")
+            }, 1000);
+        });
+
+        //Submit
+        $("#submit").on("click", function () {
+            if (!$("textarea").val()) {
+                feedback.addClass("error");
+                setTimeout(function () {
+                    feedback.removeClass("error");
+                }, 500)
+            } else {
+                feedback.addClass("show-confirm");
+                var randomWord = words[Math.floor(Math.random() * words.length)];
+                $(".feedback-box h1 strong").text(randomWord);
+
+                setTimeout(function () {
+                    feedback.removeClass("show").find("textarea").val('').delay(1000);
+                }, 2000);
+
+                setTimeout(function () {
+                    feedback.removeClass("show-confirm");
+                }, 2200);
+
+
+                var q = document.getElementById('qst').innerText;
+                console.log(q.innerText);
+
+                var list = document.getElementsByClassName('rating-stars', 'title');
+                var star = list[0].attributes[1].value;
+                console.log(star);
+
+                var text = $("textarea").val();
+                console.log(text);
+
+                var data_list = [];
+                data_list.push(q, star, text);
+
+                var time = Date.now();
+                var d = new Date(time);
+                console.log(d);
+
+
+                $(document).ready(function () {
+                    var data_ = new Object();
+                    data_.question = q;
+                    data_.star = star;
+                    data_.text = text;
+                    data_.time = d;
+                    var data = JSON.stringify(data_)
+
+                    $.ajax({
+                        url: "/back",
+                        type: "POST",
+                        data: data,
+                    })
+                })
+
+
+            }
+        })
+    })(jQuery);
+</script>
+
+{% endblock%}

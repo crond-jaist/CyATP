@@ -1,0 +1,167 @@
+{% extends 'base.html' %}
+
+{%block head%}
+<title>Survey</title>
+<link href="https://surveyjs.azureedge.net/1.8.13/modern.css" type="text/css" rel="stylesheet"/>
+<script src="https://surveyjs.azureedge.net/1.8.13/survey.jquery.min.js"></script>
+{% endblock%}
+
+{% block content %}
+
+<div id="surveyContainer"></div>
+
+<script>
+    Survey.StylesManager.applyTheme("modern");
+
+    var surveyJSON = {
+        "title": "CyATP Questionnaire",
+        "description": "We would love to hear from you about how you think about our platform and the materials used for learning. This will help us make improvements to the platform.\n",
+        "completedHtml": "<h3>Thank you for your feedback.</h3> <h5>Your thoughts and ideas will help us to create a great product!</h5>",
+        "completedHtmlOnCondition": [{"html": "<h3>Thank you for your feedback.</h3> <h5>We glad that you love our product. Your ideas and suggestions will help us to make our product even better!</h5>"}, {"html": "<h3>Thank you for your feedback.</h3> <h5> We are glad that you share with us your ideas.We highly value all suggestions from our customers. We do our best to improve the product and reach your expectation.</h5><br/>"}],
+        "pages": [{
+            "name": "page1",
+            "elements": [{
+                "type": "rating",
+                "name": "question01",
+                "title": "1. I think I would like to use CyATP frequently. ",
+                "isRequired": true,
+                "rateValues": [{"value": 1, "text": "Strongly Disagree"}, {
+                    "value": 2,
+                    "text": "Somewhat Disagree"
+                }, {"value": 3, "text": "Neutral"}, {"value": 4, "text": "Somewhat Agree"}, {
+                    "value": 5,
+                    "text": "Strongly Agree"
+                }]
+            }, {
+                "type": "rating",
+                "name": "question02",
+                "title": "2.I found CyATP unnecessarily complex.",
+                "isRequired": true,
+                "rateValues": [{"value": 1, "text": "Strongly Disagree"}, {
+                    "value": 2,
+                    "text": "Somewhat Disagree"
+                }, {"value": 3, "text": "Neutral"}, {"value": 4, "text": "Somewhat Agree"}, {
+                    "value": 5,
+                    "text": "Strongly Agree"
+                }]
+            }, {
+                "type": "rating",
+                "name": "question03",
+                "title": "3.I thought CyATP was easy to use.",
+                "isRequired": true,
+                "rateValues": [{"value": 1, "text": "Strongly Disagree"}, {
+                    "value": 2,
+                    "text": "Somewhat Disagree"
+                }, {"value": 3, "text": "Neutral"}, {"value": 4, "text": "Somewhat Agree"}, {
+                    "value": 5,
+                    "text": "Strongly Agree"
+                }]
+            }, {
+                "type": "rating",
+                "name": "question04",
+                "title": "4.\tI think that I would need the support of a technical person to be able to use CyATP.",
+                "isRequired": true,
+                "rateValues": [{"value": 1, "text": "Strongly Disagree"}, {
+                    "value": 2,
+                    "text": "Somewhat Disagree"
+                }, {"value": 3, "text": "Neutral"}, {"value": 4, "text": "Somewhat Agree"}, {
+                    "value": 5,
+                    "text": "Strongly Agree"
+                }]
+            }, {
+                "type": "rating",
+                "name": "question05",
+                "title": "5.\tI found the various functions in CyATP were well integrated.",
+                "isRequired": true,
+                "rateValues": [{"value": 1, "text": "Strongly Disagree"}, {
+                    "value": 2,
+                    "text": "Somewhat Disagree"
+                }, {"value": 3, "text": "Neutral"}, {"value": 4, "text": "Somewhat Agree"}, {
+                    "value": 5,
+                    "text": "Strongly Agree"
+                }]
+            }, {
+                "type": "rating",
+                "name": "question06",
+                "title": "6.\tI thought there was too much inconsistency in CyATP.",
+                "isRequired": true,
+                "rateValues": [{"value": 1, "text": "Strongly Disagree"}, {
+                    "value": 2,
+                    "text": "Somewhat Disagree"
+                }, {"value": 3, "text": "Neutral"}, {"value": 4, "text": "Somewhat Agree"}, {
+                    "value": 5,
+                    "text": "Strongly Agree"
+                }]
+            }, {
+                "type": "rating",
+                "name": "question07",
+                "title": "7.\tI would imagine that most people would learn to use CyATP very quickly.",
+                "isRequired": true,
+                "rateValues": [{"value": 1, "text": "Strongly Disagree"}, {
+                    "value": 2,
+                    "text": "Somewhat Disagree"
+                }, {"value": 3, "text": "Neutral"}, {"value": 4, "text": "Somewhat Agree"}, {
+                    "value": 5,
+                    "text": "Strongly Agree"
+                }]
+            }, {
+                "type": "rating",
+                "name": "question08",
+                "title": "8.\tI found CyATP very cumbersome to use.",
+                "isRequired": true,
+                "rateValues": [{"value": 1, "text": "Strongly Disagree"}, {
+                    "value": 2,
+                    "text": "Somewhat Disagree"
+                }, {"value": 3, "text": "Neutral"}, {"value": 4, "text": "Somewhat Agree"}, {
+                    "value": 5,
+                    "text": "Strongly Agree"
+                }]
+            }, {
+                "type": "rating",
+                "name": "question09",
+                "title": "9.\tI felt very confident using CyATP.",
+                "isRequired": true,
+                "rateValues": [{"value": 1, "text": "Strongly Disagree"}, {
+                    "value": 2,
+                    "text": "Somewhat Disagree"
+                }, {"value": 3, "text": "Neutral"}, {"value": 4, "text": "Somewhat Agree"}, {
+                    "value": 5,
+                    "text": "Strongly Agree"
+                }]
+            }, {
+                "type": "rating",
+                "name": "question10",
+                "title": "10.\tI needed to learn a lot of things before I could get going with CyATP.",
+                "isRequired": true,
+                "rateValues": [{"value": 1, "text": "Strongly Disagree"}, {
+                    "value": 2,
+                    "text": "Somewhat Disagree"
+                }, {"value": 3, "text": "Neutral"}, {"value": 4, "text": "Somewhat Agree"}, {
+                    "value": 5,
+                    "text": "Strongly Agree"
+                }]
+            }],
+            "title": "System Usability Scale (SUS) Evaluation",
+            "description": "For each of the following statements, please mark one box that best describes your reactions to CyATP."
+        }],
+        "showQuestionNumbers": "off"
+    }
+
+    function sendDataToServer(survey) {
+        $(document).ready(function () {
+            $.ajax({
+                url: "/survey",
+                type: "POST",
+                data: JSON.stringify(survey.data),
+            })
+        })
+    }
+
+    var survey = new Survey.Model(surveyJSON);
+    $("#surveyContainer").Survey({
+        model: survey,
+        onComplete: sendDataToServer
+    });
+</script>
+
+{% endblock %}

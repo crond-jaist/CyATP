@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{%block head%}
+<title>Questions' Feedback</title>
+{% endblock%}
+
+
+{% block content %}
+
+<h1>Questions' Feedback Page</h1>
+<ul>
+    {% for idata in data_ %}
+    <li>
+        <p><span style="font-weight: bold;font-size: 16px">Time</span> - {{ idata.time }}</p>
+        <p><span style="font-weight: bold;font-size: 16px">User agent information</span> - {{ idata.info }}</p>
+        <p><span style="font-weight: bold;font-size: 16px">Question</span> - {{ idata.question }}</p>
+        <p><span style="font-weight: bold;font-size: 16px">Star</span> - {{ idata.star }}</p>
+        <p><span style="font-weight: bold;font-size: 16px">Feedback text</span> - {{ idata.text }}</p>
+    </li>
+    {% endfor %}
+</ul>
+
+{% endblock%}

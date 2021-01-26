@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+{%block head%}
+<title>Question Detail</title>
+{% endblock%}
+
+
+{% block content %}
+
+{{record}}
+
+<ol>
+    {% for idata in data %} {# 迭代 movies 变量 #}
+
+    <li>
+        <span style="font-weight: bold;font-size: 16px">Question</span> - {{ idata.Question }}
+        <br/>
+        <span style="font-weight: bold;font-size: 16px">Answer</span> - {{ idata.Answer }}
+    </li>
+    {% if idata.Record =='0' %}
+    <span style="font-weight: bold;font-size: 16px">Result</span> - <span style="color: red">Wrong </span></li>
+    {% elif idata.Record =='1' %}
+    <span style="font-weight: bold;font-size: 16px">Result</span> - <span style="color: lawngreen">Correct </span></li>
+    {% elif idata.Record =='2' %}
+    <span style="font-weight: bold;font-size: 16px">Result</span> - <span style="color: orange"> Miss</span></li>
+    {% endif %}
+
+    {% endfor %}
+</ol>
+
+
+<button class="btn btn-primary ;" id="back" style="position: absolute; left: 500px">Back</button>
+
+<script>
+    $(document).on('click', '#back', function () {
+        window.location.href = '/game/quiz';
+    });
+</script>
+
+{% endblock%}

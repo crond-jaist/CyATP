@@ -1,0 +1,2540 @@
+Computer security,Access control,level0,level0,level1
+Computer security,Computer access control,level0,level0,level1
+Computer security,Computer security standards,level0,level0,level1
+Computer security,Operating system security,level0,level0,level1
+Computer security,Trusted computing,level0,level0,level1
+Computer security,Information privacy,level0,level0,level1
+Computer security,Computer security companies,level0,level0,level1
+Computer security,IT risk management,level0,level0,level1
+Computer security,Computer network security,level0,level0,level1
+Computer security,Computer security exploits,level0,level0,level1
+Computer security,Computer security organizations,level0,level0,level1
+Computer security,Computer security procedures,level0,level0,level1
+Computer security,Cryptography,level0,level0,level1
+Computer security,Data security,level0,level0,level1
+Computer security,People associated with computer security,level0,level0,level1
+Computer security,Mobile security,level0,level0,level1
+Computer security,Computer forensics,level0,level0,level1
+Computer security,Computer security software,level0,level0,level1
+Computer security,Computer surveillance,level0,level0,level1
+Computer security,Computer security books,level0,level0,level1
+Computer security,Computer security models,level0,level0,level1
+Computer security,Computer security qualifications,level0,level0,level1
+Access control,Authentication,level1,level1,level2
+Access control,Authentication methods,level1,level1,level2
+Access control,Guardhouses,level1,level1,level2
+Access control,Identification,level1,level1,level2
+Computer access control,Access control software,level1,level1,level2
+Computer access control,Computer access control frameworks,level1,level1,level2
+Computer access control,Federated identity,level1,level1,level2
+Computer access control,Computer access control protocols,level1,level1,level2
+Computer access control,Digital rights management,level1,level1,level2
+Computer access control,Identity management,level1,level1,level2
+Computer access control,Password authentication,level1,level1,level2
+Computer access control,Smart cards,level1,level1,level2
+Computer access control,Turing tests,level1,level1,level2
+Operating system security,Microsoft Windows security technology,level1,level1,level2
+Trusted computing,Hardware restrictions,level1,level1,level2
+Information privacy,Internet privacy,level1,level1,level2
+Information privacy,Disclosure,level1,level1,level2
+Information privacy,Freedom of information legislation,level1,level1,level2
+Information privacy,Privacy law,level1,level1,level2
+Information privacy,Privacy organizations,level1,level1,level2
+Information privacy,Medical privacy,level1,level1,level2
+Computer security companies,Computer security software companies,level1,level1,level2
+IT risk management,Information technology audit,level1,level1,level2
+IT risk management,Security compliance,level1,level1,level2
+IT risk management,Information assurance standards,level1,level1,level2
+Computer network security,Internet security,level1,level1,level2
+Computer network security,Firewall software,level1,level1,level2
+Computer network security,Spam filtering,level1,level1,level2
+Computer network security,Network analyzers,level1,level1,level2
+Computer network security,Email authentication,level1,level1,level2
+Computer network security,Virtual private networks,level1,level1,level2
+Computer network security,Network mappers,level1,level1,level2
+Computer network security,Antivirus software,level1,level1,level2
+Computer security exploits,Web security exploits,level1,level1,level2
+Computer security exploits,Injection exploits,level1,level1,level2
+Computer security exploits,Cryptographic attacks,level1,level1,level2
+Computer security exploits,Cybercrime,level1,level1,level2
+Computer security exploits,Denial-of-service attacks,level1,level1,level2
+Computer security exploits,Malware,level1,level1,level2
+Computer security exploits,Privilege escalation exploits,level1,level1,level2
+Computer security organizations,Computer security companies specializing in botnets,level1,level1,level2
+Computer security organizations,Digital forensics organisations,level1,level1,level2
+Computer security organizations,United States Cyber Command,level1,level1,level2
+Computer security procedures,Security testing tools,level1,level1,level2
+Computer security procedures,Computer security accreditations,level1,level1,level2
+Cryptography,Applications of cryptography,level1,level1,level2
+Cryptography,Cryptographic algorithms,level1,level1,level2
+Cryptography,Cryptography law,level1,level1,level2
+Cryptography,Post-quantum cryptography,level1,level1,level2
+Cryptography,Steganography,level1,level1,level2
+Cryptography,Theory of cryptography,level1,level1,level2
+Cryptography,Cryptography standards,level1,level1,level2
+Cryptography,Cryptography publications,level1,level1,level2
+Cryptography,Disk encryption,level1,level1,level2
+Cryptography,Cryptographers,level1,level1,level2
+Cryptography,Cryptographic hardware,level1,level1,level2
+Cryptography,Cryptographic primitives,level1,level1,level2
+Cryptography,Cryptographic protocols,level1,level1,level2
+Cryptography,Cryptographic software,level1,level1,level2
+Cryptography,Cryptography lists and comparisons,level1,level1,level2
+Cryptography,Cryptography organizations,level1,level1,level2
+Cryptography,History of cryptography,level1,level1,level2
+Cryptography,Key management,level1,level1,level2
+Cryptography,National Security Agency cryptography,level1,level1,level2
+Cryptography,Public-key cryptography,level1,level1,level2
+Cryptography,Quantum cryptography,level1,level1,level2
+Cryptography,Randomness,level1,level1,level2
+Cryptography,Cryptologic education,level1,level1,level2
+Cryptography,Kleptography,level1,level1,level2
+Cryptography,Symmetric-key cryptography,level1,level1,level2
+Cryptography,Cryptography contests,level1,level1,level2
+Cryptography,Classical cryptography,level1,level1,level2
+Data security,Electronic waste,level1,level1,level2
+Data security,Backup,level1,level1,level2
+Data security,Data erasure,level1,level1,level2
+Data security,Fault tolerance,level1,level1,level2
+Data security,Information governance,level1,level1,level2
+Data security,Database security,level1,level1,level2
+Data security,Backup software,level1,level1,level2
+Data security,Data protection,level1,level1,level2
+People associated with computer security,Computer criminals,level1,level1,level2
+People associated with computer security,Fictional hackers,level1,level1,level2
+People associated with computer security,Chief security officers,level1,level1,level2
+Mobile security,Mobile Malware,level1,level1,level2
+Computer forensics,Digital forensics software,level1,level1,level2
+Computer security software,Linux security software,level1,level1,level2
+Computer security software,Spyware removal,level1,level1,level2
+Computer security software,Free security software,level1,level1,level2
+Computer security software,Intrusion detection systems,level1,level1,level2
+Computer security software,Privacy software,level1,level1,level2
+Computer security software,I2P,level1,level1,level2
+Computer security software,Rootkit detection software,level1,level1,level2
+Computer security software,Anti-forensic software,level1,level1,level2
+Computer security software,Password managers,level1,level1,level2
+Computer security software,Brute force blocking software,level1,level1,level2
+Computer security software,Unix security-related software,level1,level1,level2
+Computer security software,OS X security software,level1,level1,level2
+Computer security software,Unix security software,level1,level1,level2
+Computer security software,Windows security software,level1,level1,level2
+Computer surveillance,Edward Snowden,level1,level1,level2
+Computer security books,Cryptography books,level1,level1,level2
+Computer security models,Capability systems,level1,level1,level2
+Computer security qualifications,Digital forensics certification,level1,level1,level2
+Authentication,Authentication protocols,level2,level2,level3
+Authentication methods,Watermarking,level2,level2,level3
+Authentication methods,Caller ID,level2,level2,level3
+Authentication methods,Biometrics,level2,level2,level3
+Authentication methods,Identity documents,level2,level2,level3
+Authentication methods,Message authentication codes,level2,level2,level3
+Authentication methods,Shibboleths,level2,level2,level3
+Authentication methods,Signature,level2,level2,level3
+Authentication methods,Personal identification,level2,level2,level3
+Identification,Anonymity,level2,level2,level3
+Identification,Automatic identification and data capture,level2,level2,level3
+Identification,Fingerprinting algorithms,level2,level2,level3
+Identification,Identifiers,level2,level2,level3
+Identification,Brand management,level2,level2,level3
+Identification,Animal identification,level2,level2,level3
+Access control software,Identity management systems,level2,level2,level3
+Access control software,Directory services,level2,level2,level3
+Access control software,Biometrics software,level2,level2,level3
+Access control software,Unix authentication-related software,level2,level2,level3
+Computer access control protocols,Key derivation functions,level2,level2,level3
+Digital rights management,Digital rights management circumvention software,level2,level2,level3
+Digital rights management,Digital rights management standards,level2,level2,level3
+Digital rights management,Copy protection,level2,level2,level3
+Digital rights management,Digital watermarking,level2,level2,level3
+Digital rights management,Digital rights management systems,level2,level2,level3
+Digital rights management,PlayStation 3 games with online pass,level2,level2,level3
+Identity management,Identity management initiative,level2,level2,level3
+Password authentication,Password cracking software,level2,level2,level3
+Smart cards,Contactless smart cards,level2,level2,level3
+Smart cards,EMV,level2,level2,level3
+Turing tests,Chatterbots,level2,level2,level3
+Hardware restrictions,Homebrew software,level2,level2,level3
+Hardware restrictions,IOS jailbreaking,level2,level2,level3
+Hardware restrictions,Digital Millennium Copyright Act,level2,level2,level3
+Internet privacy,Crypto-anarchism,level2,level2,level3
+Internet privacy,Anonymity networks,level2,level2,level3
+Internet privacy,Internet privacy software,level2,level2,level3
+Internet privacy,Geolocation,level2,level2,level3
+Internet privacy,Alternative Internet DNS services,level2,level2,level3
+Internet privacy,Email hacking,level2,level2,level3
+Internet privacy,Internet privacy case law,level2,level2,level3
+Internet privacy,Internet privacy legislation,level2,level2,level3
+Internet privacy,Internet privacy organizations,level2,level2,level3
+Freedom of information legislation,Freedom of information legislation in the United States,level2,level2,level3
+Freedom of information legislation,Freedom of information legislation in Canada,level2,level2,level3
+Freedom of information legislation,Freedom of information legislation in India,level2,level2,level3
+Freedom of information legislation,Freedom of information legislation in the United Kingdom,level2,level2,level3
+Privacy law,Privacy law in the United States,level2,level2,level3
+Privacy law,Searches and seizures,level2,level2,level3
+Privacy law,Privacy case law,level2,level2,level3
+Privacy law,United Kingdom privacy law,level2,level2,level3
+Privacy law,Article 8 of the European Convention on Human Rights,level2,level2,level3
+Privacy law,Privacy legislation,level2,level2,level3
+Privacy law,Personality rights,level2,level2,level3
+Privacy law,Privileged communication,level2,level2,level3
+Privacy law,Scholars of privacy law,level2,level2,level3
+Privacy organizations,Electronic Frontier Foundation,level2,level2,level3
+Privacy organizations,Data protection authorities,level2,level2,level3
+Privacy organizations,Defunct privacy organizations,level2,level2,level3
+Privacy organizations,Pirate parties,level2,level2,level3
+Medical privacy,Medical privacy legislation,level2,level2,level3
+Computer security software companies,McAfee,level2,level2,level3
+Internet security,Transport Layer Security,level2,level2,level3
+Network analyzers,Deep packet inspection,level2,level2,level3
+Network analyzers,Web analytics,level2,level2,level3
+Network analyzers,Packet analyzer software for Linux,level2,level2,level3
+Network analyzers,Deep packet capture,level2,level2,level3
+Network analyzers,Port scanners,level2,level2,level3
+Email authentication,Anti-spam,level2,level2,level3
+Email authentication,OpenPGP,level2,level2,level3
+Virtual private networks,Dark web,level2,level2,level3
+Antivirus software,Free antivirus software,level2,level2,level3
+Antivirus software,Antivirus software for Linux,level2,level2,level3
+Antivirus software,Antivirus software for DOS,level2,level2,level3
+Antivirus software,Screenshots of antivirus software,level2,level2,level3
+Cryptographic attacks,Cryptanalytic software,level2,level2,level3
+Cryptographic attacks,Side-channel attacks,level2,level2,level3
+Cryptographic attacks,Ransomware,level2,level2,level3
+Cryptographic attacks,Attacks on public-key cryptosystems,level2,level2,level3
+Cryptographic attacks,Chosen-plaintext attacks,level2,level2,level3
+Cybercrime,Copyright infringement of software,level2,level2,level3
+Cybercrime,Internet fraud,level2,level2,level3
+Cybercrime,Cyberattacks,level2,level2,level3
+Cybercrime,Cybercrime in Canada,level2,level2,level3
+Cybercrime,Cyberbullying,level2,level2,level3
+Cybercrime,Spamming,level2,level2,level3
+Cybercrime,Darknet markets,level2,level2,level3
+Cybercrime,Crime forums,level2,level2,level3
+Cybercrime,Internet vigilantism,level2,level2,level3
+Cybercrime,Digital forensics,level2,level2,level3
+Cybercrime,Cybercrime in the United Kingdom,level2,level2,level3
+Denial-of-service attacks,Algorithmic complexity attacks,level2,level2,level3
+Malware,Malware in fiction,level2,level2,level3
+Malware,Types of malware,level2,level2,level3
+Malware,Malware by platform,level2,level2,level3
+Malware,Malware by type,level2,level2,level3
+Privilege escalation exploits,Rootkits,level2,level2,level3
+Applications of cryptography,Secret broadcasting,level2,level2,level3
+Applications of cryptography,E-commerce,level2,level2,level3
+Applications of cryptography,WikiLeaks,level2,level2,level3
+Applications of cryptography,Financial cryptography,level2,level2,level3
+Cryptographic algorithms,Asymmetric-key algorithms,level2,level2,level3
+Cryptographic algorithms,Cryptographically secure pseudorandom number generators,level2,level2,level3
+Cryptographic algorithms,Type 1 encryption algorithms,level2,level2,level3
+Cryptographic algorithms,Cryptanalytic algorithms,level2,level2,level3
+Cryptographic algorithms,Primality tests,level2,level2,level3
+Cryptographic algorithms,Type 2 encryption algorithms,level2,level2,level3
+Cryptographic algorithms,Type 3 encryption algorithms,level2,level2,level3
+Cryptographic algorithms,Cryptographic hash functions,level2,level2,level3
+Cryptographic algorithms,Information-theoretically secure algorithms,level2,level2,level3
+Cryptographic algorithms,Integer factorization algorithms,level2,level2,level3
+Cryptographic algorithms,Symmetric-key algorithms,level2,level2,level3
+Cryptographic algorithms,Broken cryptography algorithms,level2,level2,level3
+Cryptographic algorithms,Advanced Access Content System,level2,level2,level3
+Cryptography law,Export and import control of cryptography,level2,level2,level3
+Post-quantum cryptography,Code-based cryptography,level2,level2,level3
+Post-quantum cryptography,Hash-based cryptography,level2,level2,level3
+Post-quantum cryptography,Multivariate cryptography,level2,level2,level3
+Post-quantum cryptography,Lattice-based cryptography,level2,level2,level3
+Theory of cryptography,Computational hardness assumptions,level2,level2,level3
+Cryptography publications,Cryptography conferences,level2,level2,level3
+Cryptography publications,Cryptography in fiction,level2,level2,level3
+Cryptography publications,Cryptography journals,level2,level2,level3
+Cryptographers,Cryptographers by nationality,level2,level2,level3
+Cryptographers,International Association for Cryptologic Research fellows,level2,level2,level3
+Cryptographers,Modern cryptographers,level2,level2,level3
+Cryptographers,Pre-computer cryptographers,level2,level2,level3
+Cryptographers,Recreational cryptographers,level2,level2,level3
+Cryptographic hardware,Encryption device accessories,level2,level2,level3
+Cryptographic hardware,Cryptanalytic devices,level2,level2,level3
+Cryptographic hardware,Encryption devices,level2,level2,level3
+Cryptographic primitives,Random number generation,level2,level2,level3
+Cryptographic protocols,Secure Shell,level2,level2,level3
+Cryptographic protocols,Key-agreement protocols,level2,level2,level3
+Cryptographic protocols,Key transport protocols,level2,level2,level3
+Cryptographic protocols,Broadcast encryption,level2,level2,level3
+Cryptographic protocols,Multicast encryption,level2,level2,level3
+Cryptographic protocols,Zero-knowledge protocols,level2,level2,level3
+Cryptographic software,Transport Layer Security implementation,level2,level2,level3
+Cryptographic software,SFTP clients,level2,level2,level3
+Cryptography organizations,Biuro Szyfrów,level2,level2,level3
+Cryptography organizations,Certificate authorities,level2,level2,level3
+Cryptography organizations,Cryptography companies,level2,level2,level3
+Cryptography organizations,Cypherpunks,level2,level2,level3
+Cryptography organizations,Government Communications Headquarters,level2,level2,level3
+Cryptography organizations,National Security Agency,level2,level2,level3
+Cryptography organizations,United States Army Signals Intelligence Service,level2,level2,level3
+Cryptography organizations,Communications Security Establishment Canada,level2,level2,level3
+History of cryptography,Code talkers,level2,level2,level3
+History of cryptography,Undeciphered historical codes and ciphers,level2,level2,level3
+History of cryptography,Bletchley Park,level2,level2,level3
+History of cryptography,Rotor machines,level2,level2,level3
+History of cryptography,Signals intelligence of World War II,level2,level2,level3
+History of cryptography,Venona project,level2,level2,level3
+History of cryptography,Signals intelligence of World War I,level2,level2,level3
+Key management,Public key infrastructure,level2,level2,level3
+Key management,Key pre-distribution,level2,level2,level3
+Key management,Secret sharing,level2,level2,level3
+National Security Agency cryptography,Data Encryption Standard,level2,level2,level3
+Public-key cryptography,Elliptic curve cryptography,level2,level2,level3
+Public-key cryptography,Pairing-based cryptography,level2,level2,level3
+Public-key cryptography,Identity-based cryptography,level2,level2,level3
+Quantum cryptography,Quantum cryptography protocols,level2,level2,level3
+Randomness,Monte Carlo methods,level2,level2,level3
+Randomness,Noise,level2,level2,level3
+Randomness,Probabilistic complexity theory,level2,level2,level3
+Randomness,Statistical randomness,level2,level2,level3
+Randomness,Randomized algorithms,level2,level2,level3
+Randomness,Card shuffling,level2,level2,level3
+Randomness,Chaos,level2,level2,level3
+Randomness,Dice,level2,level2,level3
+Randomness,Pseudorandomness,level2,level2,level3
+Randomness,Random selection,level2,level2,level3
+Randomness,Random text generation,level2,level2,level3
+Randomness,Quasirandomness,level2,level2,level3
+Symmetric-key cryptography,S-box,level2,level2,level3
+Cryptography contests,RSA Factoring Challenge,level2,level2,level3
+Classical cryptography,Classical ciphers,level2,level2,level3
+Electronic waste,Electronic waste in Europe,level2,level2,level3
+Electronic waste,Computer recycling,level2,level2,level3
+Electronic waste,Electronic waste in Africa,level2,level2,level3
+Electronic waste,Electronic waste in Asia,level2,level2,level3
+Electronic waste,Electronic waste by country,level2,level2,level3
+Backup,System image,level2,level2,level3
+Backup,Online backup services,level2,level2,level3
+Data erasure,File deletion,level2,level2,level3
+Fault tolerance,Fault-tolerant computer systems,level2,level2,level3
+Fault tolerance,Uninterruptible power supply,level2,level2,level3
+Fault tolerance,Error detection and correction,level2,level2,level3
+Database security,Data breaches,level2,level2,level3
+Backup software,Free backup software,level2,level2,level3
+Backup software,Backup software for DOS,level2,level2,level3
+Backup software,Backup software for Mac OS,level2,level2,level3
+Backup software,Backup software for Linux,level2,level2,level3
+Backup software,Backup software for Windows,level2,level2,level3
+Backup software,Disk cloning,level2,level2,level3
+Computer criminals,Spammers,level2,level2,level3
+Computer criminals,Computer criminals by nationality,level2,level2,level3
+Fictional hackers,Doctor Who Doctors,level2,level2,level3
+Fictional hackers,Fictional technopaths,level2,level2,level3
+Linux security software,Linux kernel live patching,level2,level2,level3
+Spyware removal,Screenshots of spyware removal,level2,level2,level3
+Free security software,Free security software programmed in C,level2,level2,level3
+Free security software,Free password managers,level2,level2,level3
+Edward Snowden,Intelligence agency programmes revealed by Edward Snowden,level2,level2,level3
+Biometrics,Anthropometry,level3,level3,level4
+Biometrics,Face recognition,level3,level3,level4
+Biometrics,Fingerprints,level3,level3,level4
+Biometrics,Graphology,level3,level3,level4
+Identity documents,Identity theft,level3,level3,level4
+Identity documents,Identity documents of country subdivisions,level3,level3,level4
+Identity documents,Consular identification cards,level3,level3,level4
+Identity documents,Identity documents of India,level3,level3,level4
+Identity documents,International travel documents,level3,level3,level4
+Identity documents,Identity documents of the Soviet Union,level3,level3,level4
+Identity documents,Identity documents of Germany,level3,level3,level4
+Identity documents,Health insurance card,level3,level3,level4
+Identity documents,Identity documents of Albania,level3,level3,level4
+Identity documents,Immigration documents,level3,level3,level4
+Identity documents,Business cards,level3,level3,level4
+Identity documents,Identity documents of Lithuania,level3,level3,level4
+Identity documents,Identity documents of Slovenia,level3,level3,level4
+Identity documents,Driving licences,level3,level3,level4
+Identity documents,National identity cards,level3,level3,level4
+Signature,Images of signatures,level3,level3,level4
+Personal identification,National identification numbers,level3,level3,level4
+Personal identification,Monograms,level3,level3,level4
+Personal identification,Vital statistics,level3,level3,level4
+Anonymity,Anonymity pseudonyms,level3,level3,level4
+Anonymity,Anonymous works,level3,level3,level4
+Anonymity,Anonymous artists,level3,level3,level4
+Anonymity,Anonymous bloggers,level3,level3,level4
+Anonymity,Fictional characters without a name,level3,level3,level4
+Automatic identification and data capture,Radio-frequency identification,level3,level3,level4
+Automatic identification and data capture,Radio-frequency identification companies,level3,level3,level4
+Automatic identification and data capture,Indoor positioning system,level3,level3,level4
+Automatic identification and data capture,Radio direction finding,level3,level3,level4
+Fingerprinting algorithms,Acoustic fingerprinting,level3,level3,level4
+Identifiers,Barcodes,level3,level3,level4
+Identifiers,Serial numbers,level3,level3,level4
+Identifiers,Security identifier types,level3,level3,level4
+Identifiers,Numbering in sports,level3,level3,level4
+Identifiers,Company identification numbers,level3,level3,level4
+Identifiers,Bank identifier codes,level3,level3,level4
+Identifiers,Call signs,level3,level3,level4
+Identifiers,Geocodes,level3,level3,level4
+Identifiers,International Standard Book Number,level3,level3,level4
+Identifiers,Names,level3,level3,level4
+Identifiers,Network addressing,level3,level3,level4
+Identifiers,Telephone numbers,level3,level3,level4
+Identifiers,URI schemes,level3,level3,level4
+Identifiers,Universal identifiers,level3,level3,level4
+Identifiers,Vehicle registration plates,level3,level3,level4
+Brand management,Product management,level3,level3,level4
+Brand management,French wine AOCs,level3,level3,level4
+Brand management,Branding organizations,level3,level3,level4
+Brand management,Branding terminology,level3,level3,level4
+Brand management,Tourism campaigns,level3,level3,level4
+Brand management,Altagamma members,level3,level3,level4
+Brand management,Comité Colbert members,level3,level3,level4
+Brand management,Branding companies,level3,level3,level4
+Brand management,Brand valuation,level3,level3,level4
+Brand management,Automotive technology tradenames,level3,level3,level4
+Brand management,Television presentation,level3,level3,level4
+Brand management,Trademarks,level3,level3,level4
+Brand management,Merchandise,level3,level3,level4
+Brand management,Types of branding,level3,level3,level4
+Brand management,Branding consultants,level3,level3,level4
+Directory services,Active Directory,level3,level3,level4
+Biometrics software,Bioimaging software,level3,level3,level4
+Biometrics software,Facial recognition software,level3,level3,level4
+Unix authentication-related software,Linux authentication-related software,level3,level3,level4
+Digital rights management circumvention software,DVD rippers,level3,level3,level4
+Copy protection,Compact Disc and DVD copy protection,level3,level3,level4
+Digital rights management systems,DRM for OS X,level3,level3,level4
+Digital rights management systems,DRM for Windows,level3,level3,level4
+Digital rights management systems,Conditional-access television broadcasting,level3,level3,level4
+Contactless smart cards,Near Field Communications,level3,level3,level4
+Homebrew software,Nintendo DS homebrew,level3,level3,level4
+Homebrew software,Custom firmware,level3,level3,level4
+Homebrew software,Video game console remakes,level3,level3,level4
+Homebrew software,Atari 2600 homebrew games,level3,level3,level4
+Digital Millennium Copyright Act,Digital Millennium Copyright Act case law,level3,level3,level4
+Digital Millennium Copyright Act,Digital Millennium Copyright Act takedown incidents,level3,level3,level4
+Crypto-anarchism,Crypto-anarchists,level3,level3,level4
+Anonymity networks,Anonymous file sharing networks,level3,level3,level4
+Geolocation,Location-based games,level3,level3,level4
+Geolocation,Geosocial networking,level3,level3,level4
+Geolocation,Tracking,level3,level3,level4
+Freedom of information legislation in India,Right to Information in India,level3,level3,level4
+Privacy law in the United States,United States Fourth Amendment case law,level3,level3,level4
+Privacy law in the United States,United States Third-Party Doctrine,level3,level3,level4
+Privacy law in the United States,United States Foreign Intelligence Surveillance Court,level3,level3,level4
+Privacy law in the United States,United States federal privacy legislation,level3,level3,level4
+Privacy law in the United States,Right to abortion under the United States Constitution,level3,level3,level4
+Privacy law in the United States,Right to privacy under the United States Constitution,level3,level3,level4
+Privacy law in the United States,United States privacy case law,level3,level3,level4
+Privacy law in the United States,United States state privacy legislation,level3,level3,level4
+Searches and seizures,Seized domain names,level3,level3,level4
+Searches and seizures,Search and seizure case law,level3,level3,level4
+Privacy case law,United Kingdom privacy case law,level3,level3,level4
+Privacy case law,Section Eight Charter case law,level3,level3,level4
+United Kingdom privacy law,English privacy law,level3,level3,level4
+Privacy legislation,Privacy legislation in Canada,level3,level3,level4
+Privileged communication,Priest–penitent privilege,level3,level3,level4
+Privileged communication,United States evidentiary privilege case law,level3,level3,level4
+Privileged communication,Legal professional privilege,level3,level3,level4
+Electronic Frontier Foundation,Electronic Frontier Foundation litigation,level3,level3,level4
+Pirate parties,Tunisian Pirate Party,level3,level3,level4
+Pirate parties,Pirate Party of Luxembourg,level3,level3,level4
+Pirate parties,Pirate Party of Sweden,level3,level3,level4
+Pirate parties,Pirate Party Germany,level3,level3,level4
+Pirate parties,Pirate Party Switzerland,level3,level3,level4
+Pirate parties,Pirate Party of Austria,level3,level3,level4
+Pirate parties,Pirate Party of the Netherlands,level3,level3,level4
+Pirate parties,Czech Pirate Party,level3,level3,level4
+Web analytics,Free web analytics software,level3,level3,level4
+Web analytics,Web log analysis software,level3,level3,level4
+Dark web,Tor hidden services,level3,level3,level4
+Antivirus software for Linux,Antivirus software that uses Qt,level3,level3,level4
+Copyright infringement of software,Warez,level3,level3,level4
+Internet fraud,Plagiarism detectors,level3,level3,level4
+Cyberattacks,Cyber attacks on energy sector,level3,level3,level4
+Cyberbullying,Victims of cyberbullying,level3,level3,level4
+Cyberbullying,Fictional cyberbullies,level3,level3,level4
+Cyberbullying,Fictional cyberbullying victims,level3,level3,level4
+Spamming,Botnets,level3,level3,level4
+Darknet markets,Defunct darknet markets,level3,level3,level4
+Digital forensics,Digital forensics people,level3,level3,level4
+Malware in fiction,Digimon,level3,level3,level4
+Malware in fiction,Ghost in the Shell,level3,level3,level4
+Malware in fiction,Fictional computer viruses,level3,level3,level4
+Malware by platform,Windows malware,level3,level3,level4
+Malware by platform,Android malware,level3,level3,level4
+Malware by platform,IOS malware,level3,level3,level4
+Malware by platform,Linux malware,level3,level3,level4
+Malware by platform,OS X malware,level3,level3,level4
+Malware by type,Rogue software,level3,level3,level4
+Malware by type,Spyware,level3,level3,level4
+Malware by type,Trojan horses,level3,level3,level4
+Malware by type,Malware toolkits,level3,level3,level4
+Malware by type,Adware,level3,level3,level4
+Malware by type,Bots,level3,level3,level4
+Malware by type,Computer viruses,level3,level3,level4
+Malware by type,Computer worms,level3,level3,level4
+Malware by type,Scareware,level3,level3,level4
+Rootkits,Windows rootkit techniques,level3,level3,level4
+Secret broadcasting,Pirate broadcasting,level3,level3,level4
+E-commerce,Websites utilizing paywalls,level3,level3,level4
+E-commerce,Commerce websites,level3,level3,level4
+E-commerce,Sales promotion,level3,level3,level4
+E-commerce,Electronic funds transfer,level3,level3,level4
+E-commerce,Online payments,level3,level3,level4
+E-commerce,PayPal,level3,level3,level4
+E-commerce,Recommender systems,level3,level3,level4
+E-commerce,Online banking,level3,level3,level4
+E-commerce,Free e-commerce software,level3,level3,level4
+E-commerce,B2B,level3,level3,level4
+E-commerce,Dot-com bubble,level3,level3,level4
+E-commerce,EDI,level3,level3,level4
+E-commerce,Online companies,level3,level3,level4
+E-commerce,Point of sale companies,level3,level3,level4
+E-commerce,Reputation management,level3,level3,level4
+E-commerce,E-commerce by country,level3,level3,level4
+E-commerce,Digital currencies,level3,level3,level4
+E-commerce,Micropayment,level3,level3,level4
+E-commerce,Online content distribution,level3,level3,level4
+E-commerce,Comparison shopping websites,level3,level3,level4
+E-commerce,Cryptocurrencies,level3,level3,level4
+E-commerce,Ecommerce,level3,level3,level4
+E-commerce,Merchant services,level3,level3,level4
+E-commerce,Electronic trading systems,level3,level3,level4
+E-commerce,Internet advertising methods,level3,level3,level4
+E-commerce,Digital gold currencies,level3,level3,level4
+E-commerce,New economy,level3,level3,level4
+WikiLeaks,Julian Assange,level3,level3,level4
+WikiLeaks,The Wikileaks Party politicians,level3,level3,level4
+WikiLeaks,Information published by WikiLeaks,level3,level3,level4
+Asymmetric-key algorithms,Digital signature schemes,level3,level3,level4
+Asymmetric-key algorithms,Public-key encryption schemes,level3,level3,level4
+Type 1 encryption algorithms,Advanced Encryption Standard,level3,level3,level4
+Primality tests,Pseudoprimes,level3,level3,level4
+Cryptographic hash functions,Broken hash functions,level3,level3,level4
+Cryptographic hash functions,NIST hash function competition,level3,level3,level4
+Symmetric-key algorithms,Ciphers,level3,level3,level4
+Symmetric-key algorithms,Authenticated-encryption schemes,level3,level3,level4
+Broken cryptography algorithms,Broken block ciphers,level3,level3,level4
+Broken cryptography algorithms,Broken stream ciphers,level3,level3,level4
+Cryptographers by nationality,Israeli cryptographers,level3,level3,level4
+Cryptographers by nationality,Indian cryptographers,level3,level3,level4
+Cryptographers by nationality,Pakistani cryptographers,level3,level3,level4
+Cryptographers by nationality,Cypriot cryptographers,level3,level3,level4
+Cryptographers by nationality,American cryptographers,level3,level3,level4
+Cryptographers by nationality,Australian cryptographers,level3,level3,level4
+Cryptographers by nationality,Austrian cryptographers,level3,level3,level4
+Cryptographers by nationality,Dutch cryptographers,level3,level3,level4
+Cryptographers by nationality,German cryptographers,level3,level3,level4
+Cryptographers by nationality,Russian cryptographers,level3,level3,level4
+Cryptographers by nationality,Swiss cryptographers,level3,level3,level4
+Cryptographers by nationality,Egyptian cryptographers,level3,level3,level4
+Cryptographers by nationality,Polish cryptographers,level3,level3,level4
+Cryptographers by nationality,Italian cryptographers,level3,level3,level4
+Cryptographers by nationality,Belgian cryptographers,level3,level3,level4
+Modern cryptographers,Cipher-machine cryptographers,level3,level3,level4
+Modern cryptographers,Public-key cryptographers,level3,level3,level4
+Modern cryptographers,Government Communications Headquarters cryptographers,level3,level3,level4
+Pre-computer cryptographers,Pre-19th-century cryptographers,level3,level3,level4
+Encryption devices,National Security Agency encryption devices,level3,level3,level4
+Random number generation,Non-uniform random numbers,level3,level3,level4
+Random number generation,Pseudorandom number generators,level3,level3,level4
+Certificate authorities,Former certificate authorities,level3,level3,level4
+Certificate authorities,Symantec,level3,level3,level4
+Cryptography companies,Electronic signature providers,level3,level3,level4
+Government Communications Headquarters,UKUSA listening stations,level3,level3,level4
+Government Communications Headquarters,Government Communications Headquarters people,level3,level3,level4
+Government Communications Headquarters,Government Communications Headquarters buildings and structures,level3,level3,level4
+Government Communications Headquarters,Government Communications Headquarters operations,level3,level3,level4
+National Security Agency,National Security Agency facilities,level3,level3,level4
+National Security Agency,National Security Agency people,level3,level3,level4
+National Security Agency,National Security Agency operations,level3,level3,level4
+National Security Agency,Works about the National Security Agency,level3,level3,level4
+United States Army Signals Intelligence Service,United States Army Signals Intelligence Service installations,level3,level3,level4
+United States Army Signals Intelligence Service,Signals Intelligence Service cryptographers,level3,level3,level4
+Communications Security Establishment Canada,Communications Security Establishment Canada people,level3,level3,level4
+Communications Security Establishment Canada,Communications Security Establishment Canada buildings and structures,level3,level3,level4
+Code talkers,Assiniboine code talkers,level3,level3,level4
+Code talkers,Choctaw code talkers,level3,level3,level4
+Code talkers,Comanche code talkers,level3,level3,level4
+Code talkers,Navajo code talkers,level3,level3,level4
+Undeciphered historical codes and ciphers,Undeciphered writing systems,level3,level3,level4
+Bletchley Park,People associated with Bletchley Park,level3,level3,level4
+Rotor machines,Enigma machine,level3,level3,level4
+Venona project,American people in the Venona papers,level3,level3,level4
+Monte Carlo methods,Markov chain Monte Carlo,level3,level3,level4
+Monte Carlo methods,Monte Carlo methodologists,level3,level3,level4
+Monte Carlo methods,Variance reduction,level3,level3,level4
+Monte Carlo methods,Monte Carlo methods in finance,level3,level3,level4
+Monte Carlo methods,Quantum Monte Carlo,level3,level3,level4
+Monte Carlo methods,Monte Carlo software,level3,level3,level4
+Noise,Noise pollution,level3,level3,level4
+Noise,Noise reduction,level3,level3,level4
+Probabilistic complexity theory,Probabilistic complexity classes,level3,level3,level4
+Statistical randomness,Researchers in stochastics,level3,level3,level4
+Statistical randomness,Coincidence,level3,level3,level4
+Randomized algorithms,Probabilistic data structures,level3,level3,level4
+Randomized algorithms,Stochastic algorithms,level3,level3,level4
+Chaos,Chaos gods,level3,level3,level4
+Chaos,Chaos theory,level3,level3,level4
+Dice,Dice games,level3,level3,level4
+Random selection,Coin flipping,level3,level3,level4
+Classical ciphers,Fictional languages,level3,level3,level4
+Electronic waste in Europe,Electronic waste in the United Kingdom,level3,level3,level4
+Electronic waste in Africa,Electronic waste in Ghana,level3,level3,level4
+Electronic waste in Africa,Electronic waste in Nigeria,level3,level3,level4
+Electronic waste in Asia,Electronic waste in India,level3,level3,level4
+Electronic waste in Asia,Electronic waste in China,level3,level3,level4
+Electronic waste in Asia,Electronic waste in Japan,level3,level3,level4
+Electronic waste by country,Electronic waste in New Zealand,level3,level3,level4
+Electronic waste by country,Electronic waste in the United States,level3,level3,level4
+System image,Virtualization software,level3,level3,level4
+System image,Disk images,level3,level3,level4
+Fault-tolerant computer systems,Data synchronization,level3,level3,level4
+Fault-tolerant computer systems,High-availability cluster computing,level3,level3,level4
+Fault-tolerant computer systems,RAID,level3,level3,level4
+Error detection and correction,Cyclic redundancy checks,level3,level3,level4
+Error detection and correction,Capacity-achieving codes,level3,level3,level4
+Error detection and correction,Checksum algorithms,level3,level3,level4
+Error detection and correction,Hash functions,level3,level3,level4
+Error detection and correction,Capacity-approaching codes,level3,level3,level4
+Data breaches,Data breaches in the United States,level3,level3,level4
+Data breaches,Identity theft incidents,level3,level3,level4
+Backup software for Mac OS,Backup software for OS X,level3,level3,level4
+Backup software for Linux,File hosting for Linux,level3,level3,level4
+Backup software for Windows,File hosting for Windows,level3,level3,level4
+Spammers,Usenet spammers,level3,level3,level4
+Spammers,Email spammers,level3,level3,level4
+Computer criminals by nationality,Russian computer criminals,level3,level3,level4
+Computer criminals by nationality,Moroccan computer criminals,level3,level3,level4
+Computer criminals by nationality,French computer criminals,level3,level3,level4
+Computer criminals by nationality,American computer criminals,level3,level3,level4
+Computer criminals by nationality,Swedish computer criminals,level3,level3,level4
+Computer criminals by nationality,Romanian computer criminals,level3,level3,level4
+Computer criminals by nationality,Bulgarian computer criminals,level3,level3,level4
+Computer criminals by nationality,Ukrainian computer criminals,level3,level3,level4
+Computer criminals by nationality,Australian computer criminals,level3,level3,level4
+Computer criminals by nationality,Pakistani computer criminals,level3,level3,level4
+Computer criminals by nationality,British computer criminals,level3,level3,level4
+Computer criminals by nationality,Canadian computer criminals,level3,level3,level4
+Computer criminals by nationality,German computer criminals,level3,level3,level4
+Computer criminals by nationality,Japanese computer criminals,level3,level3,level4
+Computer criminals by nationality,New Zealand computer criminals,level3,level3,level4
+Computer criminals by nationality,Israeli computer criminals,level3,level3,level4
+Anthropometry,Medical imaging,level4,level4,level5
+Anthropometry,Body shape,level4,level4,level5
+Anthropometry,Human size,level4,level4,level5
+Anthropometry,Sizes in clothing,level4,level4,level5
+Graphology,Graphologists,level4,level4,level5
+Identity theft,Films about identity theft,level4,level4,level5
+Identity theft,Identity theft law,level4,level4,level5
+Identity theft,Identity theft reporters,level4,level4,level5
+Identity theft,Identity theft victims,level4,level4,level5
+International travel documents,Hong Kong travel documents,level4,level4,level5
+International travel documents,Schengen Area,level4,level4,level5
+International travel documents,Passports,level4,level4,level5
+International travel documents,Travel documents issued by international organizations,level4,level4,level5
+International travel documents,Expedited border crossing schemes,level4,level4,level5
+International travel documents,Visas,level4,level4,level5
+Identity documents of Germany,Identity documents of Nazi Germany,level4,level4,level5
+Driving licences,Driving licences by country,level4,level4,level5
+National identity cards,National identity cards by country,level4,level4,level5
+Vital statistics,Death indexes,level4,level4,level5
+Vital statistics,Civil registries,level4,level4,level5
+Anonymous works,Anonymous musical compositions,level4,level4,level5
+Anonymous works,Folk songs,level4,level4,level5
+Anonymous works,Works published anonymously,level4,level4,level5
+Anonymous works,Anonymous lais,level4,level4,level5
+Anonymous artists,Anonymous artists of antiquity,level4,level4,level5
+Radio-frequency identification,Electronic toll collection,level4,level4,level5
+Numbering in sports,Sportspeople with retired numbers,level4,level4,level5
+Call signs,Amateur radio call signs,level4,level4,level5
+Geocodes,Lists of postal codes,level4,level4,level5
+Geocodes,Country codes,level4,level4,level5
+Geocodes,FIPS 10,level4,level4,level5
+Geocodes,ISO 3166,level4,level4,level5
+Geocodes,Lists of airports by ICAO code,level4,level4,level5
+Geocodes,Telephone numbers by country,level4,level4,level5
+Geocodes,Geographic coordinate lists,level4,level4,level5
+Geocodes,Lists of airports by IATA code,level4,level4,level5
+Geocodes,Geographic object identifiers,level4,level4,level5
+Geocodes,United Nations geoscheme,level4,level4,level5
+Geocodes,Country subdivision codes,level4,level4,level5
+Geocodes,Nomenclature of Territorial Units for Statistics,level4,level4,level5
+Names,Nicknames,level4,level4,level5
+Names,Classification,level4,level4,level5
+Names,Lists of names,level4,level4,level5
+Names,Name stubs,level4,level4,level5
+Names,Place names,level4,level4,level5
+Names,Individual gemstones,level4,level4,level5
+Names,Name days,level4,level4,level5
+Names,Glottonyms,level4,level4,level5
+Names,Redirects from personal names,level4,level4,level5
+Names,Brands,level4,level4,level5
+Names,Code names,level4,level4,level5
+Names,Eponyms,level4,level4,level5
+Names,Human names,level4,level4,level5
+Names,Names of God,level4,level4,level5
+Names,Naming controversies,level4,level4,level5
+Names,Naming conventions,level4,level4,level5
+Names,Pejoratives,level4,level4,level5
+Names,Placeholder names,level4,level4,level5
+Names,Filenames,level4,level4,level5
+Names,Common names,level4,level4,level5
+Names,Ship names,level4,level4,level5
+Names,Epithets,level4,level4,level5
+Names,Names by language,level4,level4,level5
+Names,Human first names given to physical phenomena,level4,level4,level5
+Names,Name suffixes,level4,level4,level5
+Network addressing,Network address translation,level4,level4,level5
+Network addressing,Domain name system,level4,level4,level5
+Network addressing,IP addresses,level4,level4,level5
+Telephone numbers,North American Numbering Plan,level4,level4,level5
+Telephone numbers,Emergency telephone numbers,level4,level4,level5
+Telephone numbers,Three-digit telephone numbers,level4,level4,level5
+Telephone numbers,Telephone directory publishing companies,level4,level4,level5
+URI schemes,Uniform Resource Locator,level4,level4,level5
+Vehicle registration plates,Automatic number plate recognition,level4,level4,level5
+Vehicle registration plates,Diplomatic license plates,level4,level4,level5
+Vehicle registration plates,Vehicle registration plates by country,level4,level4,level5
+Product management,Packaging,level4,level4,level5
+Product management,Product lifecycle management,level4,level4,level5
+Product management,Product development,level4,level4,level5
+Product management,Research and development,level4,level4,level5
+French wine AOCs,Champagne wine AOCs,level4,level4,level5
+French wine AOCs,Alsace wine AOCs,level4,level4,level5
+French wine AOCs,Bordeaux AOCs,level4,level4,level5
+French wine AOCs,Bugey wine,level4,level4,level5
+French wine AOCs,Charente AOCs,level4,level4,level5
+French wine AOCs,Jura wine AOCs,level4,level4,level5
+French wine AOCs,Provence wine AOCs,level4,level4,level5
+French wine AOCs,Rhône wine AOCs,level4,level4,level5
+French wine AOCs,Roussillon wine AOCs,level4,level4,level5
+French wine AOCs,Savoie wine AOCs,level4,level4,level5
+French wine AOCs,Corsica wine AOCs,level4,level4,level5
+French wine AOCs,Languedoc-Roussillon wine AOCs,level4,level4,level5
+French wine AOCs,Loire AOCs,level4,level4,level5
+French wine AOCs,South West France AOCs,level4,level4,level5
+Branding companies,Branding companies of the United States,level4,level4,level5
+Automotive technology tradenames,Automatic transmission tradenames,level4,level4,level5
+Automotive technology tradenames,Four-wheel-drive system tradenames,level4,level4,level5
+Television presentation,Test cards,level4,level4,level5
+Television presentation,Television presentation in the United Kingdom,level4,level4,level5
+Trademarks,Exercise-related trademarks,level4,level4,level5
+Trademarks,Lists of trademarks,level4,level4,level5
+Trademarks,Sound trademarks,level4,level4,level5
+Trademarks,Certification marks,level4,level4,level5
+Trademarks,Trademark law,level4,level4,level5
+Trademarks,Glass trademarks and brands,level4,level4,level5
+Merchandise,Disney merchandise,level4,level4,level5
+Merchandise,SpongeBob SquarePants media and merchandise,level4,level4,level5
+Merchandise,Garfield media and merchandise,level4,level4,level5
+Types of branding,Audio branding,level4,level4,level5
+Bioimaging software,Neuroimaging software,level4,level4,level5
+Bioimaging software,DICOM software,level4,level4,level5
+Bioimaging software,Free bioimaging software,level4,level4,level5
+Near Field Communications,Video games that use figurines,level4,level4,level5
+Custom firmware,Custom Android firmware,level4,level4,level5
+Custom firmware,Free BIOS implementations,level4,level4,level5
+Video game console remakes,Master System,level4,level4,level5
+Video game console remakes,Atari 2600 hardware clones,level4,level4,level5
+Video game console remakes,Nintendo Entertainment System hardware clones,level4,level4,level5
+Video game console remakes,Backward-compatible video game consoles,level4,level4,level5
+Video game console remakes,Computer hardware clones,level4,level4,level5
+Video game console remakes,Game console intercompatibility hardware,level4,level4,level5
+Tracking,Internet object tracking,level4,level4,level5
+Right to Information in India,Right to Information activists,level4,level4,level5
+United States Foreign Intelligence Surveillance Court,United States Foreign Intelligence Surveillance Court of Review case law,level4,level4,level5
+United Kingdom privacy case law,English privacy case law,level4,level4,level5
+Priest–penitent privilege,Priest–penitent privilege in England,level4,level4,level5
+United States evidentiary privilege case law,United States attorney–client privilege case law,level4,level4,level5
+United States evidentiary privilege case law,United States executive privilege case law,level4,level4,level5
+Tunisian Pirate Party,Tunisian Pirate Party politicians,level4,level4,level5
+Pirate Party of Luxembourg,Pirate Party of Luxembourg politicians,level4,level4,level5
+Pirate Party of Sweden,Pirate Party of Sweden politicians,level4,level4,level5
+Pirate Party Germany,Pirate Party Germany politicians,level4,level4,level5
+Pirate Party Switzerland,Pirate Party Switzerland politicians,level4,level4,level5
+Pirate Party of Austria,Pirate Party of Austria politicians,level4,level4,level5
+Pirate Party of the Netherlands,Pirate Party of the Netherlands politicians,level4,level4,level5
+Czech Pirate Party,Czech Pirate Party politicians,level4,level4,level5
+Tor hidden services,Defunct Tor hidden services,level4,level4,level5
+Warez,Copyright enforcement,level4,level4,level5
+Warez,Warez groups,level4,level4,level5
+Warez,Warez images,level4,level4,level5
+Digimon,Digimon media,level4,level4,level5
+Digimon,Digimon video games,level4,level4,level5
+Digimon,Digimon anime and manga,level4,level4,level5
+Digimon,Digimon lists,level4,level4,level5
+Ghost in the Shell,Ghost in the Shell characters,level4,level4,level5
+Ghost in the Shell,Ghost in the Shell video games,level4,level4,level5
+Ghost in the Shell,Ghost in the Shell anime and manga,level4,level4,level5
+Ghost in the Shell,Ghost in the Shell images,level4,level4,level5
+Ghost in the Shell,Ghost in the Shell films,level4,level4,level5
+Fictional computer viruses,Virus hoaxes,level4,level4,level5
+Windows malware,Windows trojans,level4,level4,level5
+Windows malware,Windows viruses,level4,level4,level5
+Linux malware,Linux viruses,level4,level4,level5
+Trojan horses,Software that bundles malware,level4,level4,level5
+Trojan horses,Common trojan horse payloads,level4,level4,level5
+Adware,Windows adware,level4,level4,level5
+Bots,Computer poker players,level4,level4,level5
+Bots,Internet Relay Chat bots,level4,level4,level5
+Computer viruses,Amiga viruses,level4,level4,level5
+Computer viruses,DOS viruses,level4,level4,level5
+Computer viruses,Macintosh viruses,level4,level4,level5
+Computer viruses,Macro viruses,level4,level4,level5
+Computer worms,Email worms,level4,level4,level5
+Computer worms,Exploit-based worms,level4,level4,level5
+Pirate broadcasting,Pirate radio,level4,level4,level5
+Pirate broadcasting,Pirate television,level4,level4,level5
+Commerce websites,Online auction websites,level4,level4,level5
+Commerce websites,Online retailers,level4,level4,level5
+Commerce websites,Freelance marketplace websites,level4,level4,level5
+Commerce websites,Online marketplaces,level4,level4,level5
+Commerce websites,Self-publishing online stores,level4,level4,level5
+Commerce websites,Deal of the day services,level4,level4,level5
+Commerce websites,Online food ordering,level4,level4,level5
+Commerce websites,Classified advertising websites,level4,level4,level5
+Commerce websites,Real estate websites,level4,level4,level5
+Sales promotion,Customer loyalty programs,level4,level4,level5
+PayPal,PayPal people,level4,level4,level5
+Recommender systems,Netflix,level4,level4,level5
+Online banking,Online banks,level4,level4,level5
+EDI,EDI software companies,level4,level4,level5
+Online companies,Online dating services,level4,level4,level5
+Online companies,Shopping delivery services,level4,level4,level5
+Online companies,Providers of services to on-line companies,level4,level4,level5
+Online companies,Online publishing companies,level4,level4,level5
+Online companies,Online companies by country,level4,level4,level5
+Online companies,Defunct online companies,level4,level4,level5
+Online companies,Online insurance companies,level4,level4,level5
+Online companies,Online real estate companies,level4,level4,level5
+Online companies,Online gambling companies,level4,level4,level5
+Online companies,Online travel agencies,level4,level4,level5
+Online companies,Online brokerages,level4,level4,level5
+Online companies,Online nonprofit organizations,level4,level4,level5
+Point of sale companies,NCR Corporation,level4,level4,level5
+Reputation management,Review websites,level4,level4,level5
+Reputation management,Smear campaigns,level4,level4,level5
+Reputation management,Reputation management companies,level4,level4,level5
+Reputation management,Star ranking systems,level4,level4,level5
+E-commerce by country,E-commerce in India,level4,level4,level5
+Digital currencies,Digital currency exchangers,level4,level4,level5
+Digital currencies,Virtual economies,level4,level4,level5
+Micropayment,Ripple payment network,level4,level4,level5
+Micropayment,Video games containing microtransactions,level4,level4,level5
+Online content distribution,Video on demand services,level4,level4,level5
+Online content distribution,Streaming music services,level4,level4,level5
+Online content distribution,Digital libraries,level4,level4,level5
+Online content distribution,Online music stores,level4,level4,level5
+Online content distribution,E-book sources,level4,level4,level5
+Online content distribution,NESiCAxLive games,level4,level4,level5
+Online content distribution,File sharing services,level4,level4,level5
+Online content distribution,Software distribution platforms,level4,level4,level5
+Online content distribution,Online-only retailers of video games,level4,level4,level5
+Online content distribution,Video hosting,level4,level4,level5
+Comparison shopping websites,Travel ticket search engines,level4,level4,level5
+Cryptocurrencies,Cryptocurrency tumblers,level4,level4,level5
+Cryptocurrencies,Ethereum,level4,level4,level5
+Cryptocurrencies,Blockchains,level4,level4,level5
+Cryptocurrencies,Bitcoin,level4,level4,level5
+Electronic trading systems,Electronic trading platforms,level4,level4,level5
+Electronic trading systems,Algorithmic trading,level4,level4,level5
+Internet advertising methods,Retargeting,level4,level4,level5
+Internet advertising methods,Contextual advertising,level4,level4,level5
+Information published by WikiLeaks,United States diplomatic cables leak,level4,level4,level5
+Ciphers,Block ciphers,level4,level4,level5
+Ciphers,Free ciphers,level4,level4,level5
+Ciphers,Stream ciphers,level4,level4,level5
+Ciphers,Bible code,level4,level4,level5
+American cryptographers,National Security Agency cryptographers,level4,level4,level5
+Symantec,Symantec software,level4,level4,level5
+Symantec,Symantec acquisitions,level4,level4,level5
+Symantec,Symantec people,level4,level4,level5
+Government Communications Headquarters people,Directors of the Government Communications Headquarters,level4,level4,level5
+National Security Agency people,Analysts of the National Security Agency,level4,level4,level5
+National Security Agency people,Fictional NSA agents,level4,level4,level5
+National Security Agency people,Deputy Directors of the National Security Agency,level4,level4,level5
+National Security Agency people,Directors of the National Security Agency,level4,level4,level5
+Works about the National Security Agency,Books about the National Security Agency,level4,level4,level5
+Undeciphered writing systems,Manuscripts written in undeciphered writing systems,level4,level4,level5
+Undeciphered writing systems,Inscriptions in undeciphered writing systems,level4,level4,level5
+Undeciphered writing systems,Rongorongo,level4,level4,level5
+Monte Carlo software,Monte Carlo molecular modelling software,level4,level4,level5
+Monte Carlo software,Monte Carlo particle physics software,level4,level4,level5
+Noise reduction,Aircraft noise reduction,level4,level4,level5
+Noise reduction,Image noise reduction techniques,level4,level4,level5
+Noise reduction,Active noise control mobile phones,level4,level4,level5
+Stochastic algorithms,Metaheuristics,level4,level4,level5
+Stochastic algorithms,Stochastic optimization,level4,level4,level5
+Chaos theory,Self-organization,level4,level4,level5
+Chaos theory,Chaos theorists,level4,level4,level5
+Chaos theory,Chaotic maps,level4,level4,level5
+Chaos theory,Fractals,level4,level4,level5
+Chaos theory,Nonlinear systems,level4,level4,level5
+Fictional languages,Middle-earth languages,level4,level4,level5
+Fictional languages,Books written in fictional dialects,level4,level4,level5
+Fictional languages,Fictional-language films,level4,level4,level5
+Fictional languages,Klingon language,level4,level4,level5
+Virtualization software,Virtual machines,level4,level4,level5
+Virtualization software,Virtualization-related software for Linux,level4,level4,level5
+Virtualization software,Emulation software,level4,level4,level5
+Virtualization software,Free virtualization software,level4,level4,level5
+Virtualization software,Platform virtualization software,level4,level4,level5
+Virtualization software,VMware,level4,level4,level5
+Disk images,Disk image emulators,level4,level4,level5
+Disk images,Storage virtualization,level4,level4,level5
+Disk images,Disk image editors,level4,level4,level5
+Data synchronization,SyncML,level4,level4,level5
+Backup software for OS X,File hosting for OS X,level4,level4,level5
+Medical imaging,Medical ultrasonography,level5,level5,level6
+Medical imaging,Radiology,level5,level5,level6
+Medical imaging,Electrophysiology,level5,level5,level6
+Medical imaging,Magnetic resonance imaging,level5,level5,level6
+Medical imaging,Positron emission tomography,level5,level5,level6
+Medical imaging,Medical imaging by system,level5,level5,level6
+Medical imaging,Medical photography and illustration,level5,level5,level6
+Medical imaging,Optical imaging,level5,level5,level6
+Medical imaging,Contrast media,level5,level5,level6
+Body shape,Fat acceptance movement,level5,level5,level6
+Body shape,Cosmetic surgery,level5,level5,level6
+Body shape,Bodybuilding,level5,level5,level6
+Body shape,Human weight,level5,level5,level6
+Body shape,Obesity,level5,level5,level6
+Body shape,Shapeshifting,level5,level5,level6
+Body shape,Body image in popular culture,level5,level5,level6
+Human size,Human height,level5,level5,level6
+Sizes in clothing,Plus-size models,level5,level5,level6
+Graphologists,American graphologists,level5,level5,level6
+Graphologists,German graphologists,level5,level5,level6
+Graphologists,French graphologists,level5,level5,level6
+Identity theft law,Identity theft case law,level5,level5,level6
+Passports,Defunct passports,level5,level5,level6
+Passports,Images of passports,level5,level5,level6
+Passports,Passports by country,level5,level5,level6
+Passports,Passport stamps,level5,level5,level6
+Visas,Central America-4 Border Control Agreement,level5,level5,level6
+Visas,Visa policies in Europe,level5,level5,level6
+Visas,Visa policy by country,level5,level5,level6
+Visas,Visa requirements by nationality,level5,level5,level6
+Civil registries,Family registers,level5,level5,level6
+Folk songs,Christmas carols,level5,level5,level6
+Folk songs,Folk-song collectors,level5,level5,level6
+Folk songs,African folk songs,level5,level5,level6
+Folk songs,Folk songs by nationality,level5,level5,level6
+Folk songs,Lonnie Donegan songs,level5,level5,level6
+Folk songs,Sea shanties,level5,level5,level6
+Folk songs,Folk punk songs,level5,level5,level6
+Folk songs,Indie folk songs,level5,level5,level6
+Folk songs,Nursery rhymes,level5,level5,level6
+Folk songs,Four Jacks and a Jill songs,level5,level5,level6
+Folk songs,Bashkir folk songs,level5,level5,level6
+Folk songs,Nerd-folk songs,level5,level5,level6
+Folk songs,Drinking songs,level5,level5,level6
+Folk songs,Filk songs,level5,level5,level6
+Folk songs,Cajun folk songs,level5,level5,level6
+Folk songs,Traditional ballads,level5,level5,level6
+Sportspeople with retired numbers,Handball players with retired numbers,level5,level5,level6
+Sportspeople with retired numbers,Lists of retired numbers,level5,level5,level6
+Sportspeople with retired numbers,Ice hockey players with retired numbers,level5,level5,level6
+Sportspeople with retired numbers,American football players with retired numbers,level5,level5,level6
+Sportspeople with retired numbers,Baseball people with retired numbers,level5,level5,level6
+Sportspeople with retired numbers,Basketball players with retired numbers,level5,level5,level6
+Lists of postal codes,Postal codes in Canada,level5,level5,level6
+Lists of postal codes,Postcodes in the United Kingdom,level5,level5,level6
+Lists of postal codes,Postal codes of Australia,level5,level5,level6
+Country codes,Lists of country codes,level5,level5,level6
+ISO 3166,Redirects from ISO 3166 codes,level5,level5,level6
+Telephone numbers by country,Telephone numbers in Australia,level5,level5,level6
+Telephone numbers by country,Telephone numbers in New Zealand,level5,level5,level6
+Telephone numbers by country,Telephone numbers in Ukraine,level5,level5,level6
+Telephone numbers by country,Telephone numbers in the Republic of Macedonia,level5,level5,level6
+Telephone numbers by country,Telephone numbers in Nigeria,level5,level5,level6
+Telephone numbers by country,Telephone numbers in Tokelau,level5,level5,level6
+Telephone numbers by country,Telephone numbers in Brazil,level5,level5,level6
+Telephone numbers by country,Telephone numbers in Canada,level5,level5,level6
+Telephone numbers by country,Telephone numbers in Chile,level5,level5,level6
+Telephone numbers by country,Telephone numbers in Germany,level5,level5,level6
+Telephone numbers by country,Telephone numbers in Greece,level5,level5,level6
+Telephone numbers by country,Telephone numbers in India,level5,level5,level6
+Telephone numbers by country,Telephone numbers in Ireland,level5,level5,level6
+Telephone numbers by country,Telephone numbers in Italy,level5,level5,level6
+Telephone numbers by country,Telephone numbers in Japan,level5,level5,level6
+Telephone numbers by country,Telephone numbers in Mexico,level5,level5,level6
+Telephone numbers by country,Telephone numbers in Sweden,level5,level5,level6
+Telephone numbers by country,Telephone numbers in the United Kingdom,level5,level5,level6
+Telephone numbers by country,Telephone numbers in the United States,level5,level5,level6
+Telephone numbers by country,Telephone numbers in Pakistan,level5,level5,level6
+Nomenclature of Territorial Units for Statistics,LAU 1 statistical regions of the European Union,level5,level5,level6
+Nomenclature of Territorial Units for Statistics,LAU 2 statistical regions of the European Union,level5,level5,level6
+Nomenclature of Territorial Units for Statistics,NUTS of the United Kingdom,level5,level5,level6
+Nomenclature of Territorial Units for Statistics,NUTS 1 statistical regions of the European Union,level5,level5,level6
+Nomenclature of Territorial Units for Statistics,NUTS 2 statistical regions of the European Union,level5,level5,level6
+Nomenclature of Territorial Units for Statistics,NUTS 3 statistical regions of the European Union,level5,level5,level6
+Nomenclature of Territorial Units for Statistics,NUTS statistical regions of the Republic of Ireland,level5,level5,level6
+Nomenclature of Territorial Units for Statistics,NUTS statistical regions of Greece,level5,level5,level6
+Nicknames,Lists of people by nickname,level5,level5,level6
+Nicknames,Regional nicknames,level5,level5,level6
+Nicknames,Lists of nicknames,level5,level5,level6
+Nicknames,Hypocorisms,level5,level5,level6
+Nicknames,Nicknames of politicians,level5,level5,level6
+Nicknames,Nicknames in classical music,level5,level5,level6
+Nicknames,Nicknames of criminals,level5,level5,level6
+Nicknames,Nicknames in sports,level5,level5,level6
+Classification,Country classifications,level5,level5,level6
+Classification,Car classifications,level5,level5,level6
+Classification,Classification algorithms,level5,level5,level6
+Classification,Classification systems,level5,level5,level6
+Lists of names,Lists of eponyms,level5,level5,level6
+Lists of names,Lists of popular names,level5,level5,level6
+Lists of names,Lists of place names,level5,level5,level6
+Lists of names,Lists of biblical names,level5,level5,level6
+Name stubs,Given name stubs,level5,level5,level6
+Name stubs,Surname stubs,level5,level5,level6
+Place names,Alternative place names,level5,level5,level6
+Place names,Etymologies of geographic names,level5,level5,level6
+Place names,Place names by language,level5,level5,level6
+Place names,Lists of places sharing the same name,level5,level5,level6
+Place names,Exonyms,level5,level5,level6
+Place names,Place names by type of place,level5,level5,level6
+Place names,Place names by continent,level5,level5,level6
+Place names,Toponymic surnames,level5,level5,level6
+Place names,Minor planets named for places,level5,level5,level6
+Individual gemstones,Individual diamonds,level5,level5,level6
+Individual gemstones,Individual rubies,level5,level5,level6
+Individual gemstones,Individual sapphires,level5,level5,level6
+Individual gemstones,Individual spinels,level5,level5,level6
+Individual gemstones,Individual emeralds,level5,level5,level6
+Individual gemstones,Individual pearls,level5,level5,level6
+Individual gemstones,Individual opals,level5,level5,level6
+Individual gemstones,Individual topazes,level5,level5,level6
+Brands,Fictional brands,level5,level5,level6
+Brands,Luxury brands,level5,level5,level6
+Brands,Brand name products stubs,level5,level5,level6
+Brands,Lists of brands,level5,level5,level6
+Brands,Compilation album series branded by bars and cafés,level5,level5,level6
+Brands,Defunct brands,level5,level5,level6
+Brands,Franchises,level5,level5,level6
+Brands,Sunscreen brands,level5,level5,level6
+Brands,Branding theorists,level5,level5,level6
+Brands,Brands by company,level5,level5,level6
+Brands,Brands by country,level5,level5,level6
+Brands,Brands by product type,level5,level5,level6
+Code names,CIA cryptonyms,level5,level5,level6
+Code names,Lists of NATO reporting names,level5,level5,level6
+Eponyms,Name reactions,level5,level5,level6
+Eponyms,Minor planets by source of name,level5,level5,level6
+Human names,Names by culture,level5,level5,level6
+Human names,Patronymics,level5,level5,level6
+Human names,Informal personal names,level5,level5,level6
+Human names,Given names,level5,level5,level6
+Human names,Surname,level5,level5,level6
+Human names,Matronymics,level5,level5,level6
+Human names,Nisbas,level5,level5,level6
+Human names,Names by person,level5,level5,level6
+Names of God,Names of God in Christianity,level5,level5,level6
+Names of God,Names of God in Hinduism,level5,level5,level6
+Names of God,Names of God in Irish mythology,level5,level5,level6
+Names of God,Names of God in Judaism,level5,level5,level6
+Names of God,Names of God in Zoroastrianism,level5,level5,level6
+Names of God,Names of God in African traditional religions,level5,level5,level6
+Names of God,Names of God in Sikhism,level5,level5,level6
+Names of God,Names of God in literature and fiction,level5,level5,level6
+Names of God,Holy Spirit,level5,level5,level6
+Names of God,Names of God in Gnosticism,level5,level5,level6
+Names of God,Epithets of Greek deities,level5,level5,level6
+Names of God,Names of God in Islam,level5,level5,level6
+Names of God,Epithets of Roman deities,level5,level5,level6
+Naming controversies,Geographical naming disputes,level5,level5,level6
+Naming conventions,Encodings,level5,level5,level6
+Naming conventions,Filename extensions,level5,level5,level6
+Naming conventions,Military aircraft designation systems,level5,level5,level6
+Naming conventions,Ship naming conventions,level5,level5,level6
+Naming conventions,UNESCO nomenclature,level5,level5,level6
+Naming conventions,Naming organizations,level5,level5,level6
+Naming conventions,Scientific nomenclature,level5,level5,level6
+Pejoratives,Cults,level5,level5,level6
+Pejoratives,Pejorative terms for people,level5,level5,level6
+Pejoratives,Political correctness,level5,level5,level6
+Pejoratives,Reclaimed words,level5,level5,level6
+Pejoratives,Eurocentrism,level5,level5,level6
+Filenames,DOS files,level5,level5,level6
+Filenames,Windows files,level5,level5,level6
+Common names,Common names of organisms,level5,level5,level6
+Common names,Drug brand names,level5,level5,level6
+Common names,Redirects to scientific names,level5,level5,level6
+Ship names,United States Navy ship names,level5,level5,level6
+Ship names,Imperial Japanese Navy ship names,level5,level5,level6
+Ship names,Royal Norwegian Navy ship names,level5,level5,level6
+Ship names,Ship prefixes,level5,level5,level6
+Ship names,Soviet Navy ship names,level5,level5,level6
+Ship names,Spanish Navy ship names,level5,level5,level6
+Ship names,Swedish Navy ship names,level5,level5,level6
+Ship names,Royal Australian Navy ship names,level5,level5,level6
+Ship names,Royal Navy ship names,level5,level5,level6
+Ship names,Ship identification numbers,level5,level5,level6
+Ship names,Pakistan Navy ship names,level5,level5,level6
+Ship names,Brazilian Navy ship names,level5,level5,level6
+Ship names,Austro-Hungarian Navy ship names,level5,level5,level6
+Ship names,Chilean Navy ship names,level5,level5,level6
+Ship names,French Navy ship names,level5,level5,level6
+Ship names,German Navy ship names,level5,level5,level6
+Ship names,Royal New Zealand Navy ship names,level5,level5,level6
+Ship names,Russian ship names,level5,level5,level6
+Ship names,National Oceanic and Atmospheric Administration ship names,level5,level5,level6
+Ship names,Naval ship names of the Netherlands,level5,level5,level6
+Ship names,United States Coast Survey ship names,level5,level5,level6
+Ship names,Italian Navy ship names,level5,level5,level6
+Ship names,Republic of Korea Navy ship names,level5,level5,level6
+Ship names,Royal Netherlands Navy ship names,level5,level5,level6
+Ship names,Peruvian Navy ship names,level5,level5,level6
+Ship names,Indian Navy ship names,level5,level5,level6
+Ship names,United States Coast Guard ship names,level5,level5,level6
+Ship names,Polish Navy ship names,level5,level5,level6
+Ship names,Argentine Navy ship names,level5,level5,level6
+Ship names,Dominican Navy ship names,level5,level5,level6
+Ship names,Ecuadorian Navy ship names,level5,level5,level6
+Ship names,Hellenic Navy ship names,level5,level5,level6
+Ship names,Japan Maritime Self-Defense Force ship names,level5,level5,level6
+Ship names,Philippine Navy ship names,level5,level5,level6
+Ship names,Republic of China Navy ship names,level5,level5,level6
+Ship names,Royal Fleet Auxiliary ship names,level5,level5,level6
+Names by language,Uralic personal names,level5,level5,level6
+Names by language,Arabic-language names,level5,level5,level6
+Names by language,Slavic-language names,level5,level5,level6
+Names by language,Sinhalese names,level5,level5,level6
+Names by language,Yoruba-language names,level5,level5,level6
+Names by language,Hebrew-language names,level5,level5,level6
+Names by language,Sanskrit-language names,level5,level5,level6
+Names by language,Urdu names,level5,level5,level6
+Names by language,Baltic-language names,level5,level5,level6
+Names by language,Greek-language names,level5,level5,level6
+Names by language,English-language names,level5,level5,level6
+Names by language,Amharic-language names,level5,level5,level6
+Names by language,Korean-language names,level5,level5,level6
+Names by language,Serbian-language names,level5,level5,level6
+Names by language,Given names by language,level5,level5,level6
+Names by language,Surnames by language,level5,level5,level6
+Names by language,Celtic names,level5,level5,level6
+Names by language,Tamil names,level5,level5,level6
+Names by language,Igbo names,level5,level5,level6
+Names by language,Japanese names,level5,level5,level6
+Domain name system,Domain registrars,level5,level5,level6
+Domain name system,Domain registries,level5,level5,level6
+Domain name system,DNS software,level5,level5,level6
+Domain name system,Top-level domains,level5,level5,level6
+Domain name system,Dynamic DNS,level5,level5,level6
+Domain name system,Internationalized domain names,level5,level5,level6
+Domain name system,Domain names,level5,level5,level6
+Domain name system,Domain hacks,level5,level5,level6
+Domain name system,Second-level domains,level5,level5,level6
+Domain name system,Proposed top-level domains,level5,level5,level6
+North American Numbering Plan,Area codes in Canada,level5,level5,level6
+North American Numbering Plan,Area codes in the Caribbean,level5,level5,level6
+North American Numbering Plan,Area codes in the United States,level5,level5,level6
+North American Numbering Plan,N11 codes,level5,level5,level6
+Telephone directory publishing companies,Telephone directory publishing companies of the United States,level5,level5,level6
+Uniform Resource Locator,URL-shortening services,level5,level5,level6
+Vehicle registration plates by country,Vehicle registration plates of Canada,level5,level5,level6
+Vehicle registration plates by country,Vehicle registration plates of the United Kingdom,level5,level5,level6
+Vehicle registration plates by country,Vehicle registration plates of the United States,level5,level5,level6
+Packaging,Communication design,level5,level5,level6
+Packaging,Containers,level5,level5,level6
+Packaging,Packaging machinery,level5,level5,level6
+Packaging,Packaging materials,level5,level5,level6
+Packaging,Packing problems,level5,level5,level6
+Packaging,Wine packaging and storage,level5,level5,level6
+Packaging,Paperboard packaging,level5,level5,level6
+Packaging,Food packaging,level5,level5,level6
+Packaging,Packaging magazines and journals,level5,level5,level6
+Packaging,Packaging industry,level5,level5,level6
+Product lifecycle management,Maintenance,level5,level5,level6
+Product lifecycle management,Software project management,level5,level5,level6
+Product development,Software development,level5,level5,level6
+Product development,Project management,level5,level5,level6
+Product development,TRIZ,level5,level5,level6
+Product development,Upcoming products,level5,level5,level6
+Research and development,Weapon development,level5,level5,level6
+Research and development,Research and development by country,level5,level5,level6
+Research and development,Research and development by continent,level5,level5,level6
+Research and development,Research and development organizations,level5,level5,level6
+Research and development,Underwater diving research and development,level5,level5,level6
+Research and development,Prototypes,level5,level5,level6
+Research and development,Military research,level5,level5,level6
+Research and development,Technology development,level5,level5,level6
+Research and development,University and college laboratories,level5,level5,level6
+Test cards,BBC test cards,level5,level5,level6
+Certification marks,Geopolitical production certification marks,level5,level5,level6
+Certification marks,Religious consumer symbols,level5,level5,level6
+Certification marks,Consumer symbols,level5,level5,level6
+Certification marks,Environmental certification marks,level5,level5,level6
+Certification marks,Certification marks in India,level5,level5,level6
+Trademark law,Trademark legislation,level5,level5,level6
+Trademark law,Fair use,level5,level5,level6
+Trademark law,Patent medicines,level5,level5,level6
+Trademark law,False advertising law,level5,level5,level6
+Trademark law,Geographical Indications in India,level5,level5,level6
+Trademark law,Trademark law organizations,level5,level5,level6
+Trademark law,Trademark case law,level5,level5,level6
+Trademark law,Trademark law by jurisdiction,level5,level5,level6
+Trademark law,Trademark attorneys,level5,level5,level6
+Trademark law,Works about trademark law,level5,level5,level6
+Disney merchandise,Disney books,level5,level5,level6
+Disney merchandise,Indiana Jones games,level5,level5,level6
+Disney merchandise,Marvel Comics games,level5,level5,level6
+Disney merchandise,Disney video games,level5,level5,level6
+Disney merchandise,Disney Consumer Products,level5,level5,level6
+Disney merchandise,Lego themes licensed from Disney,level5,level5,level6
+Disney merchandise,Star Wars merchandise,level5,level5,level6
+SpongeBob SquarePants media and merchandise,SpongeBob SquarePants albums,level5,level5,level6
+SpongeBob SquarePants media and merchandise,Video games based on SpongeBob SquarePants,level5,level5,level6
+Garfield media and merchandise,Garfield videos and DVDs,level5,level5,level6
+Garfield media and merchandise,Video games based on Garfield,level5,level5,level6
+Audio branding,Jingles,level5,level5,level6
+Audio branding,Television news music packages,level5,level5,level6
+DICOM software,Free DICOM software,level5,level5,level6
+Video games that use figurines,Video games that use Amiibo figurines,level5,level5,level6
+Video games that use figurines,Toys-to-life games,level5,level5,level6
+Custom Android firmware,CyanogenMod,level5,level5,level6
+Master System,Master System games,level5,level5,level6
+Backward-compatible video game consoles,Xbox 360,level5,level5,level6
+Computer hardware clones,ZX Spectrum clones,level5,level5,level6
+Computer hardware clones,Macintosh clones,level5,level5,level6
+Computer hardware clones,Unlicensed Nintendo hardware,level5,level5,level6
+Computer hardware clones,Unlicensed Sega hardware,level5,level5,level6
+Computer hardware clones,Apple II clones,level5,level5,level6
+Internet object tracking,Geocaching,level5,level5,level6
+Pirate Party of Sweden politicians,Pirate Party of Sweden MEPs,level5,level5,level6
+Digimon media,Digimon anime DVD covers,level5,level5,level6
+Digimon anime and manga,Digimon films,level5,level5,level6
+Digimon lists,Digimon episode lists,level5,level5,level6
+Digimon lists,Lists of Digimon characters,level5,level5,level6
+Ghost in the Shell anime and manga,Stand Alone Complex,level5,level5,level6
+Windows viruses,Windows file viruses,level5,level5,level6
+DOS viruses,Boot viruses,level5,level5,level6
+DOS viruses,DOS file viruses,level5,level5,level6
+Pirate radio,Offshore radio,level5,level5,level6
+Pirate radio,Radio Free Roscoe,level5,level5,level6
+Pirate radio,Pirate radio personalities,level5,level5,level6
+Pirate radio,Pirate radio stations,level5,level5,level6
+Pirate radio,Irish pirate radio,level5,level5,level6
+Pirate radio,Films about pirate radio,level5,level5,level6
+Pirate television,Pirate television stations,level5,level5,level6
+Online auction websites,Online employment auction websites,level5,level5,level6
+Online retailers,Rakuten,level5,level5,level6
+Online retailers,Product searching websites,level5,level5,level6
+Online retailers,Online grocers,level5,level5,level6
+Online retailers,Businesspeople in online retailing,level5,level5,level6
+Online retailers,Online retailers by country,level5,level5,level6
+Online retailers,Book selling websites,level5,level5,level6
+Online retailers,Online retailer founders,level5,level5,level6
+Online retailers,Online clothing retailers,level5,level5,level6
+Classified advertising websites,Craigslist,level5,level5,level6
+Real estate websites,Online real estate databases,level5,level5,level6
+Customer loyalty programs,Credit card rewards programs,level5,level5,level6
+Customer loyalty programs,Frequent flyer programs,level5,level5,level6
+Customer loyalty programs,Reward websites,level5,level5,level6
+Netflix,Netflix original programming,level5,level5,level6
+Online dating services,Online dating for specific interests,level5,level5,level6
+Online dating services,Same sex online dating,level5,level5,level6
+Online publishing companies,Webcomic publishing companies,level5,level5,level6
+Online companies by country,Online companies of the United States,level5,level5,level6
+Online companies by country,Online companies of the United Arab Emirates,level5,level5,level6
+Online companies by country,Online companies of India,level5,level5,level6
+Online companies by country,Online companies of China,level5,level5,level6
+Online companies by country,Online companies of Pakistan,level5,level5,level6
+Defunct online companies,Defunct digital music services or companies,level5,level5,level6
+Defunct online companies,Defunct online companies of the United States,level5,level5,level6
+Defunct online companies,Defunct online music stores,level5,level5,level6
+Online gambling companies,888 Holdings,level5,level5,level6
+NCR Corporation,NCR Corporation people,level5,level5,level6
+NCR Corporation,NCR products,level5,level5,level6
+NCR Corporation,NCR Book Award winners,level5,level5,level6
+Review websites,Charity review websites,level5,level5,level6
+Review websites,Film review websites,level5,level5,level6
+Review websites,Video game review websites,level5,level5,level6
+Review websites,Music review websites,level5,level5,level6
+E-commerce in India,Online retailers of India,level5,level5,level6
+Digital currency exchangers,Bitcoin exchanges,level5,level5,level6
+Virtual economies,Fictional currencies,level5,level5,level6
+Ripple payment network,Ripple gateways,level5,level5,level6
+Video on demand services,Internet television,level5,level5,level6
+Video on demand services,Funny or Die,level5,level5,level6
+Video on demand services,Hulu,level5,level5,level6
+Video on demand services,Smart TV,level5,level5,level6
+Video on demand services,CNN,level5,level5,level6
+Video on demand services,YouTube,level5,level5,level6
+Digital libraries,Commercial digital libraries,level5,level5,level6
+Digital libraries,Discipline-oriented digital libraries,level5,level5,level6
+Digital libraries,Eprint archives,level5,level5,level6
+Digital libraries,Open-access archives,level5,level5,level6
+Digital libraries,World Digital Library,level5,level5,level6
+Digital libraries,Web archiving initiatives,level5,level5,level6
+Digital libraries,Digital preservation,level5,level5,level6
+Digital libraries,Full text scholarly online databases,level5,level5,level6
+Digital libraries,Geographic region-oriented digital libraries,level5,level5,level6
+Digital libraries,Mass digitization,level5,level5,level6
+Digital libraries,Academic journal online publishing platforms,level5,level5,level6
+Digital libraries,Aggregation-based digital libraries,level5,level5,level6
+Digital libraries,Digital library projects,level5,level5,level6
+Digital libraries,Language-oriented digital libraries,level5,level5,level6
+Digital libraries,Digital library software,level5,level5,level6
+Digital libraries,Corpora,level5,level5,level6
+File sharing services,One-click hosting,level5,level5,level6
+Software distribution platforms,Free software distributions,level5,level5,level6
+Software distribution platforms,Mobile software distribution platforms,level5,level5,level6
+Online-only retailers of video games,PlayStation Store,level5,level5,level6
+Online-only retailers of video games,Nintendo eShop,level5,level5,level6
+Video hosting,Viral videos,level5,level5,level6
+Video hosting,Video hosting software,level5,level5,level6
+Video hosting,Educational video websites,level5,level5,level6
+Bitcoin,People associated with Bitcoin,level5,level5,level6
+Electronic trading platforms,Stock exchanges,level5,level5,level6
+Electronic trading platforms,Former electronic trading platforms,level5,level5,level6
+Algorithmic trading,Works about algorithmic trading,level5,level5,level6
+Block ciphers,Block cipher modes of operation,level5,level5,level6
+Block ciphers,Feistel ciphers,level5,level5,level6
+Metaheuristics,Evolutionary algorithms,level5,level5,level6
+Metaheuristics,Nature-inspired metaheuristics,level5,level5,level6
+Metaheuristics,Artificial immune systems,level5,level5,level6
+Stochastic optimization,Sequential experiments,level5,level5,level6
+Stochastic optimization,Stochastic control,level5,level5,level6
+Self-organization,Cellular automata,level5,level5,level6
+Self-organization,Pattern formation,level5,level5,level6
+Self-organization,Wikis,level5,level5,level6
+Self-organization,Self-replicating machines,level5,level5,level6
+Self-organization,Social networks,level5,level5,level6
+Chaotic maps,Ergodic theory,level5,level5,level6
+Fractals,Fractal curves,level5,level5,level6
+Fractals,Wavelets,level5,level5,level6
+Fractals,Images of fractals,level5,level5,level6
+Fractals,Iterated function system fractals,level5,level5,level6
+Fractals,Fractal software,level5,level5,level6
+Middle-earth languages,Middle-earth writing systems,level5,level5,level6
+Middle-earth languages,Middle-earth words,level5,level5,level6
+Fictional-language films,Star Wars films,level5,level5,level6
+Klingon language,Linguists of Klingon,level5,level5,level6
+Klingon language,Klingon-language operas,level5,level5,level6
+Virtual machines,Abstract machines,level5,level5,level6
+Virtual machines,Java virtual machine,level5,level5,level6
+Virtual machines,Register-based virtual machines,level5,level5,level6
+Virtual machines,Stack-based virtual machines,level5,level5,level6
+Emulation software,Linux emulation software,level5,level5,level6
+Emulation software,OS X emulation software,level5,level5,level6
+Emulation software,Windows emulation software,level5,level5,level6
+Emulation software,Commodore 64 emulators,level5,level5,level6
+Emulation software,Video game platform emulators,level5,level5,level6
+Emulation software,Free emulation software,level5,level5,level6
+Emulation software,Terminal emulators,level5,level5,level6
+Emulation software,Unix emulators,level5,level5,level6
+Emulation software,RISC OS emulation software,level5,level5,level6
+Emulation software,RISC OS emulators,level5,level5,level6
+Emulation software,Android emulation software,level5,level5,level6
+Emulation software,MorphOS emulation software,level5,level5,level6
+Emulation software,68k emulators,level5,level5,level6
+Emulation software,Amiga emulation software,level5,level5,level6
+Emulation software,Amiga emulators,level5,level5,level6
+Emulation software,Arcade emulators,level5,level5,level6
+Emulation software,Classic Mac OS emulation software,level5,level5,level6
+Emulation software,DOS emulation software,level5,level5,level6
+Emulation software,DOS emulators,level5,level5,level6
+Emulation software,Dreamcast emulation software,level5,level5,level6
+Emulation software,GP2X emulation software,level5,level5,level6
+Emulation software,MSX emulators,level5,level5,level6
+Emulation software,Macintosh platform emulators,level5,level5,level6
+Emulation software,Multi-emulators,level5,level5,level6
+Emulation software,PowerPC emulators,level5,level5,level6
+Emulation software,Server emulators,level5,level5,level6
+Emulation software,Unix emulation software,level5,level5,level6
+Emulation software,X86 emulators,level5,level5,level6
+Emulation software,Z80 emulators,level5,level5,level6
+Storage virtualization,Storage area networks,level5,level5,level6
+Disk image editors,Disk image extractors,level5,level5,level6
+Medical ultrasonography,Flow meters,level6,level6,level7
+Medical ultrasonography,Ultrasound contrast agents,level6,level6,level7
+Radiology,Radiography,level6,level6,level7
+Radiology,Radiologists,level6,level6,level7
+Radiology,Radiation therapy,level6,level6,level7
+Radiology,Radiology organizations,level6,level6,level7
+Radiology,Interventional radiology,level6,level6,level7
+Radiology,Nuclear medicine,level6,level6,level7
+Electrophysiology,Cardiac electrophysiology,level6,level6,level7
+Electrophysiology,Electrophysiologists,level6,level6,level7
+Magnetic resonance imaging,MRI contrast agents,level6,level6,level7
+Positron emission tomography,PET radiotracers,level6,level6,level7
+Medical imaging by system,Neuroimaging,level6,level6,level7
+Medical imaging by system,Urologic imaging,level6,level6,level7
+Medical imaging by system,Digestive system imaging,level6,level6,level7
+Medical imaging by system,Respiratory system imaging,level6,level6,level7
+Medical imaging by system,Cardiac imaging,level6,level6,level7
+Medical imaging by system,Breast imaging,level6,level6,level7
+Medical photography and illustration,Medical illustrators,level6,level6,level7
+Contrast media,Radiocontrast agents,level6,level6,level7
+Fat acceptance movement,Fat acceptance activists,level6,level6,level7
+Cosmetic surgery,Plastic surgery,level6,level6,level7
+Cosmetic surgery,Hair transplantation,level6,level6,level7
+Cosmetic surgery,Hair removal,level6,level6,level7
+Cosmetic surgery,Cosmetic surgery in the United Kingdom,level6,level6,level7
+Bodybuilding,Bodybuilders,level6,level6,level7
+Bodybuilding,Bodybuilding competitions,level6,level6,level7
+Bodybuilding,Bodybuilding magazines,level6,level6,level7
+Bodybuilding,Bodybuilding supplements,level6,level6,level7
+Bodybuilding,Female bodybuilding,level6,level6,level7
+Bodybuilding,Bodybuilding organisations,level6,level6,level7
+Bodybuilding,Bodybuilding by continent,level6,level6,level7
+Bodybuilding,Bodybuilding by country,level6,level6,level7
+Bodybuilding,Years in bodybuilding,level6,level6,level7
+Bodybuilding,Bodybuilding media,level6,level6,level7
+Bodybuilding,Physique photographers,level6,level6,level7
+Bodybuilding,Professional bodybuilding,level6,level6,level7
+Human weight,Weight classes,level6,level6,level7
+Human weight,Bodyweight exercise,level6,level6,level7
+Human weight,Hyperalimentation,level6,level6,level7
+Human weight,Weight loss,level6,level6,level7
+Obesity,Anti-obesity activists,level6,level6,level7
+Obesity,Fat fetishism,level6,level6,level7
+Obesity,Documentary films about obesity,level6,level6,level7
+Obesity,Obesity organizations,level6,level6,level7
+Obesity,Obesity journals,level6,level6,level7
+Obesity,Management of obesity,level6,level6,level7
+Obesity,Medical conditions related to obesity,level6,level6,level7
+Obesity,Obesity researchers,level6,level6,level7
+Obesity,Childhood obesity,level6,level6,level7
+Obesity,Obesity in the Pacific,level6,level6,level7
+Obesity,Obesity by country,level6,level6,level7
+Shapeshifting,Werewolves,level6,level6,level7
+Shapeshifting,Tricksters,level6,level6,level7
+Shapeshifting,Metamorphoses in Greek mythology,level6,level6,level7
+Shapeshifting,Shapeshifting in fiction,level6,level6,level7
+Body image in popular culture,Television programs about plastic surgery,level6,level6,level7
+Human height,Growth disorders,level6,level6,level7
+Human height,African Pygmies,level6,level6,level7
+Human height,People with gigantism,level6,level6,level7
+Human height,Dwarfism,level6,level6,level7
+Human height,Growth hormones,level6,level6,level7
+Identity theft case law,United States identity theft case law,level6,level6,level7
+Passports by country,Chinese passports,level6,level6,level7
+Passports by country,European Union passports,level6,level6,level7
+Passports by country,British passports,level6,level6,level7
+Visa policy by country,Visa policy of the United States,level6,level6,level7
+Christmas carols,Portuguese Christmas carols,level6,level6,level7
+Christmas carols,Piae Cantiones,level6,level6,level7
+Christmas carols,Christmas carol collections,level6,level6,level7
+Folk-song collectors,Epic poetry collectors,level6,level6,level7
+Folk-song collectors,Folk-song collectors by nationality,level6,level6,level7
+African folk songs,South African folk songs,level6,level6,level7
+Folk songs by nationality,Australian folk songs,level6,level6,level7
+Folk songs by nationality,Belarusian folk songs,level6,level6,level7
+Folk songs by nationality,Canadian folk songs,level6,level6,level7
+Folk songs by nationality,Chinese folk songs,level6,level6,level7
+Folk songs by nationality,English folk songs,level6,level6,level7
+Folk songs by nationality,French folk songs,level6,level6,level7
+Folk songs by nationality,German folk songs,level6,level6,level7
+Folk songs by nationality,Japanese folk songs,level6,level6,level7
+Folk songs by nationality,Norwegian folk songs,level6,level6,level7
+Folk songs by nationality,Russian folk songs,level6,level6,level7
+Folk songs by nationality,Scottish folk songs,level6,level6,level7
+Folk songs by nationality,Swedish folk songs,level6,level6,level7
+Folk songs by nationality,Polish folk songs,level6,level6,level7
+Folk songs by nationality,Solomon Islands folk songs,level6,level6,level7
+Folk songs by nationality,Mexican folk songs,level6,level6,level7
+Folk songs by nationality,Turkish folk songs,level6,level6,level7
+Folk songs by nationality,Haitian folk songs,level6,level6,level7
+Folk songs by nationality,American folk songs,level6,level6,level7
+Folk songs by nationality,British folk songs,level6,level6,level7
+Folk songs by nationality,Irish folk songs,level6,level6,level7
+Folk songs by nationality,Indonesian folk songs,level6,level6,level7
+Folk songs by nationality,Italian folk songs,level6,level6,level7
+Folk songs by nationality,Serbian folk songs,level6,level6,level7
+Folk songs by nationality,Ukrainian folk songs,level6,level6,level7
+Folk songs by nationality,Armenian folk songs,level6,level6,level7
+Folk songs by nationality,Welsh folk songs,level6,level6,level7
+Folk songs by nationality,South Korean folk songs,level6,level6,level7
+Folk songs by nationality,Latvian folk songs,level6,level6,level7
+Folk songs by nationality,Philippine folk songs,level6,level6,level7
+Folk songs by nationality,Chilean folk songs,level6,level6,level7
+Folk songs by nationality,Azerbaijani folk songs,level6,level6,level7
+Folk songs by nationality,Bulgarian folk songs,level6,level6,level7
+Folk songs by nationality,Dutch folk songs,level6,level6,level7
+Sea shanties,Sea shanties albums,level6,level6,level7
+Folk punk songs,Celtic punk songs,level6,level6,level7
+Folk punk songs,Frank Turner songs,level6,level6,level7
+Folk punk songs,The King Blues songs,level6,level6,level7
+Folk punk songs,Violent Femmes songs,level6,level6,level7
+Folk punk songs,Chumbawamba songs,level6,level6,level7
+Folk punk songs,Billy Bragg songs,level6,level6,level7
+Folk punk songs,The Pogues songs,level6,level6,level7
+Indie folk songs,Beck songs,level6,level6,level7
+Indie folk songs,The Decemberists songs,level6,level6,level7
+Indie folk songs,Damien Rice songs,level6,level6,level7
+Indie folk songs,Ben Howard songs,level6,level6,level7
+Indie folk songs,Bon Iver songs,level6,level6,level7
+Indie folk songs,Vance Joy songs,level6,level6,level7
+Indie folk songs,Jake Bugg songs,level6,level6,level7
+Indie folk songs,Of Monsters and Men songs,level6,level6,level7
+Indie folk songs,Sylvan Esso songs,level6,level6,level7
+Indie folk songs,Benjamin Francis Leftwich songs,level6,level6,level7
+Indie folk songs,Noah and the Whale songs,level6,level6,level7
+Indie folk songs,Sufjan Stevens songs,level6,level6,level7
+Indie folk songs,Ingrid Michaelson songs,level6,level6,level7
+Indie folk songs,The Civil Wars songs,level6,level6,level7
+Indie folk songs,Fleet Foxes songs,level6,level6,level7
+Indie folk songs,Neutral Milk Hotel songs,level6,level6,level7
+Indie folk songs,Bombay Bicycle Club songs,level6,level6,level7
+Indie folk songs,Amy Macdonald songs,level6,level6,level7
+Indie folk songs,The Lumineers songs,level6,level6,level7
+Nursery rhymes,Roud Folk Song Index songs,level6,level6,level7
+Nursery rhymes,Works based on nursery rhymes,level6,level6,level7
+Nursery rhymes,French nursery rhymes,level6,level6,level7
+Nursery rhymes,German nursery rhymes,level6,level6,level7
+Nursery rhymes,Irish nursery rhymes,level6,level6,level7
+Nursery rhymes,Japanese nursery rhymes,level6,level6,level7
+Nursery rhymes,Russian nursery rhymes,level6,level6,level7
+Nursery rhymes,Turkish nursery rhymes,level6,level6,level7
+Nursery rhymes,Nursery rhymes albums,level6,level6,level7
+Nursery rhymes,American nursery rhymes,level6,level6,level7
+Nursery rhymes,Collections of nursery rhymes,level6,level6,level7
+Nursery rhymes,British nursery rhymes,level6,level6,level7
+Nursery rhymes,Nursery rhymes of uncertain origin,level6,level6,level7
+Nerd-folk songs,Jonathan Coulton songs,level6,level6,level7
+Traditional ballads,Border ballads,level6,level6,level7
+Traditional ballads,Ballads of the Irish Rebellion of 1798,level6,level6,level7
+Handball players with retired numbers,Handball-Bundesliga players with retired numbers,level6,level6,level7
+Lists of retired numbers,Lists of Major League Baseball retired numbers,level6,level6,level7
+Lists of retired numbers,Lists of National Football League retired numbers,level6,level6,level7
+Ice hockey players with retired numbers,National Hockey League players with retired numbers,level6,level6,level7
+American football players with retired numbers,National Football League players with retired numbers,level6,level6,level7
+Baseball people with retired numbers,Baseball players with retired numbers,level6,level6,level7
+Baseball people with retired numbers,Major League Baseball people with retired numbers,level6,level6,level7
+Basketball players with retired numbers,National Basketball Association players with retired numbers,level6,level6,level7
+Basketball players with retired numbers,Philippine Basketball Association players with retired numbers,level6,level6,level7
+Basketball players with retired numbers,Korean Basketball League players with retired numbers,level6,level6,level7
+Postcodes in the United Kingdom,Postcode areas of the United Kingdom,level6,level6,level7
+Telephone numbers in Ireland,Telephone numbers in Northern Ireland,level6,level6,level7
+Telephone numbers in Ireland,Telephone numbers in the Republic of Ireland,level6,level6,level7
+Telephone numbers in Mexico,Area codes in Mexico by code,level6,level6,level7
+Telephone numbers in the United Kingdom,Area codes in the United Kingdom,level6,level6,level7
+LAU 1 statistical regions of the European Union,Cantons of France,level6,level6,level7
+LAU 1 statistical regions of the European Union,Cantons of Luxembourg,level6,level6,level7
+LAU 1 statistical regions of the European Union,Counties of Estonia,level6,level6,level7
+LAU 1 statistical regions of the European Union,Counties of Poland,level6,level6,level7
+LAU 1 statistical regions of the European Union,Districts of Cyprus,level6,level6,level7
+LAU 1 statistical regions of the European Union,Districts of England,level6,level6,level7
+LAU 1 statistical regions of the European Union,Districts of Slovakia,level6,level6,level7
+LAU 1 statistical regions of the European Union,Districts of the Czech Republic,level6,level6,level7
+LAU 1 statistical regions of the European Union,Municipalities of Lithuania,level6,level6,level7
+LAU 1 statistical regions of the European Union,Districts of Latvia,level6,level6,level7
+LAU 1 statistical regions of the European Union,Local administrative units of the Republic of Ireland,level6,level6,level7
+LAU 1 statistical regions of the European Union,Municipalities of Denmark,level6,level6,level7
+LAU 1 statistical regions of the European Union,Municipalities of Portugal,level6,level6,level7
+LAU 1 statistical regions of the European Union,Sub-regions of Finland,level6,level6,level7
+LAU 1 statistical regions of the European Union,Collective municipalities in Germany,level6,level6,level7
+LAU 1 statistical regions of the European Union,Municipalities of Bulgaria,level6,level6,level7
+LAU 1 statistical regions of the European Union,Municipalities of Greece,level6,level6,level7
+LAU 2 statistical regions of the European Union,Municipalities of Estonia,level6,level6,level7
+LAU 2 statistical regions of the European Union,Gminas of Poland,level6,level6,level7
+LAU 2 statistical regions of the European Union,Lists of communes of France,level6,level6,level7
+LAU 2 statistical regions of the European Union,Municipalities of Belgium,level6,level6,level7
+LAU 2 statistical regions of the European Union,Municipalities of Finland,level6,level6,level7
+LAU 2 statistical regions of the European Union,Municipalities of Germany,level6,level6,level7
+LAU 2 statistical regions of the European Union,Municipalities of the Netherlands,level6,level6,level7
+LAU 2 statistical regions of the European Union,Municipalities of Sweden,level6,level6,level7
+LAU 2 statistical regions of the European Union,Municipalities of Spain,level6,level6,level7
+LAU 2 statistical regions of the European Union,Communes of Luxembourg,level6,level6,level7
+LAU 2 statistical regions of the European Union,Parishes of Portugal,level6,level6,level7
+LAU 2 statistical regions of the European Union,Wards of the United Kingdom,level6,level6,level7
+NUTS of the United Kingdom,NUTS 1 statistical regions of the United Kingdom,level6,level6,level7
+NUTS of the United Kingdom,NUTS 2 statistical regions of the United Kingdom,level6,level6,level7
+NUTS of the United Kingdom,NUTS 3 statistical regions of the United Kingdom,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Nord-Pas-de-Calais,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Denmark,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Estonia,level6,level6,level7
+NUTS 1 statistical regions of the European Union,States of Germany,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Sweden,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Wales,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Wallonia,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Provinces of Italy by region,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Canary Islands,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Croatia,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Cyprus,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Czech Republic,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Greater London,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Latvia,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Lithuania,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Luxembourg,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Malta,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Republic of Ireland,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Scotland,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Slovakia,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Slovenia,level6,level6,level7
+NUTS 1 statistical regions of the European Union,NUTS 1 statistical regions of Greece,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Åland Islands,level6,level6,level7
+NUTS 1 statistical regions of the European Union,Community of Madrid,level6,level6,level7
+NUTS 2 statistical regions of the European Union,Administrative regions of Greece,level6,level6,level7
+NUTS 2 statistical regions of the European Union,States of Austria,level6,level6,level7
+NUTS 2 statistical regions of the European Union,Development regions of Romania,level6,level6,level7
+NUTS 2 statistical regions of the European Union,Provinces of Belgium,level6,level6,level7
+NUTS 2 statistical regions of the European Union,NUTS 2 statistical regions of Germany,level6,level6,level7
+NUTS 2 statistical regions of the European Union,National Areas of Sweden,level6,level6,level7
+NUTS 2 statistical regions of the European Union,Autonomous communities of Spain,level6,level6,level7
+NUTS 2 statistical regions of the European Union,NUTS 2 statistical regions of Portugal,level6,level6,level7
+NUTS 2 statistical regions of the European Union,Provinces of the Netherlands,level6,level6,level7
+NUTS 2 statistical regions of the European Union,Regions of France,level6,level6,level7
+NUTS 2 statistical regions of the European Union,Regions of Italy,level6,level6,level7
+NUTS 2 statistical regions of the European Union,Voivodeships of Poland,level6,level6,level7
+NUTS 2 statistical regions of the European Union,NUTS 2 statistical regions of Albania,level6,level6,level7
+NUTS 2 statistical regions of the European Union,NUTS 2 statistical regions of Croatia,level6,level6,level7
+NUTS 2 statistical regions of the European Union,NUTS 2 statistical regions of Slovenia,level6,level6,level7
+NUTS 2 statistical regions of the European Union,Regions of Hungary,level6,level6,level7
+NUTS 3 statistical regions of the European Union,Counties of Hungary,level6,level6,level7
+NUTS 3 statistical regions of the European Union,Counties of Lithuania,level6,level6,level7
+NUTS 3 statistical regions of the European Union,Counties of Romania,level6,level6,level7
+NUTS 3 statistical regions of the European Union,Districts of Germany,level6,level6,level7
+NUTS 3 statistical regions of the European Union,Provinces of Bulgaria,level6,level6,level7
+NUTS 3 statistical regions of the European Union,Provinces of Spain,level6,level6,level7
+NUTS 3 statistical regions of the European Union,Regions of Finland,level6,level6,level7
+NUTS 3 statistical regions of the European Union,Regions of Slovakia,level6,level6,level7
+NUTS 3 statistical regions of the European Union,Arrondissements of Belgium,level6,level6,level7
+NUTS 3 statistical regions of the European Union,NUTS 3 Statistical Regions of Portugal,level6,level6,level7
+NUTS 3 statistical regions of the European Union,Cantons of Switzerland,level6,level6,level7
+NUTS 3 statistical regions of the European Union,Counties of Sweden,level6,level6,level7
+NUTS 3 statistical regions of the European Union,Departments of France,level6,level6,level7
+NUTS 3 statistical regions of the European Union,Prefectures of Greece,level6,level6,level7
+NUTS 3 statistical regions of the European Union,Regions of the Czech Republic,level6,level6,level7
+NUTS 3 statistical regions of the European Union,Statistical regions of Slovenia,level6,level6,level7
+Regional nicknames,American regional nicknames,level6,level6,level7
+Regional nicknames,City nicknames,level6,level6,level7
+Regional nicknames,Lists of regional nicknames,level6,level6,level7
+Nicknames in sports,Nicknamed groups of sportspeople,level6,level6,level7
+Country classifications,Arab world,level6,level6,level7
+Country classifications,Economic country classifications,level6,level6,level7
+Car classifications,Crossover sport utility vehicles,level6,level6,level7
+Car classifications,Microcars,level6,level6,level7
+Car classifications,Sport utility vehicles,level6,level6,level7
+Car classifications,Cars designed and produced for films,level6,level6,level7
+Car classifications,Luxury vehicles,level6,level6,level7
+Car classifications,Cyclecars,level6,level6,level7
+Car classifications,Executive cars,level6,level6,level7
+Car classifications,Kei cars,level6,level6,level7
+Car classifications,Minivans,level6,level6,level7
+Car classifications,Pickup trucks,level6,level6,level7
+Car classifications,Sports cars,level6,level6,level7
+Car classifications,Compact executive cars,level6,level6,level7
+Car classifications,Sports sedans,level6,level6,level7
+Car classifications,European car classifications,level6,level6,level7
+Car classifications,North American car classifications,level6,level6,level7
+Car classifications,City cars,level6,level6,level7
+Car classifications,Concept cars,level6,level6,level7
+Car classifications,Flagship vehicles,level6,level6,level7
+Car classifications,Full-size vehicles,level6,level6,level7
+Car classifications,Green automobiles,level6,level6,level7
+Car classifications,Rocket cars,level6,level6,level7
+Car classifications,Electric sports cars,level6,level6,level7
+Car classifications,Hot Hatch,level6,level6,level7
+Car classifications,Automobiles with gull-wing doors,level6,level6,level7
+Car classifications,Low-speed vehicles,level6,level6,level7
+Classification algorithms,Artificial neural networks,level6,level6,level7
+Classification algorithms,Ensemble learning,level6,level6,level7
+Classification algorithms,Decision trees,level6,level6,level7
+Classification systems,Ecozones,level6,level6,level7
+Classification systems,Köppen climate classifications,level6,level6,level7
+Classification systems,Scientific classification,level6,level6,level7
+Classification systems,Stock market indices,level6,level6,level7
+Classification systems,Taxonomy,level6,level6,level7
+Classification systems,Biomes,level6,level6,level7
+Classification systems,Ecoregions,level6,level6,level7
+Classification systems,Ecosystems,level6,level6,level7
+Classification systems,Hertzsprung–Russell classifications,level6,level6,level7
+Classification systems,Library cataloging and classification,level6,level6,level7
+Classification systems,Classification systems by subject,level6,level6,level7
+Classification systems,Rating,level6,level6,level7
+Classification systems,Economic classification systems,level6,level6,level7
+Classification systems,Geographic taxonomies,level6,level6,level7
+Classification systems,Hornbostel-Sachs,level6,level6,level7
+Lists of eponyms,Lists of medical eponyms,level6,level6,level7
+Lists of eponyms,Lists of things named after people,level6,level6,level7
+Lists of place names,Lists of country names,level6,level6,level7
+Lists of place names,Lists of places named after people,level6,level6,level7
+Lists of place names,Lists of Latin place names,level6,level6,level7
+Lists of place names,Lists of cities by toponymy,level6,level6,level7
+Lists of place names,Lists of former place names,level6,level6,level7
+Lists of place names,Lists of demonyms,level6,level6,level7
+Lists of place names,Lists of placename etymologies,level6,level6,level7
+Alternative place names,Geographical neologisms,level6,level6,level7
+Alternative place names,Historical Chinese exonyms,level6,level6,level7
+Etymologies of geographic names,Country name etymology,level6,level6,level7
+Etymologies of geographic names,Placename element etymologies,level6,level6,level7
+Etymologies of geographic names,Locations in the world with British names,level6,level6,level7
+Place names by language,Albanian place names,level6,level6,level7
+Place names by language,Chinook Jargon place names,level6,level6,level7
+Place names by language,Irish toponymy,level6,level6,level7
+Place names by language,Slavic toponyms,level6,level6,level7
+Place names by language,Latin place names,level6,level6,level7
+Lists of places sharing the same name,Lists of roads sharing the same title,level6,level6,level7
+Lists of places sharing the same name,Set indices on rivers,level6,level6,level7
+Lists of places sharing the same name,Set indices on Ukraine,level6,level6,level7
+Lists of places sharing the same name,Airport disambiguation,level6,level6,level7
+Lists of places sharing the same name,Set indices on lakes,level6,level6,level7
+Lists of places sharing the same name,Set indices on Russia,level6,level6,level7
+Lists of places sharing the same name,Set indices on mountains,level6,level6,level7
+Lists of places sharing the same name,Scottish Island set index articles,level6,level6,level7
+Exonyms,Italian exonyms,level6,level6,level7
+Exonyms,Chinese exonyms,level6,level6,level7
+Exonyms,French exonyms,level6,level6,level7
+Exonyms,German exonyms,level6,level6,level7
+Exonyms,English exonyms,level6,level6,level7
+Exonyms,Hungarian exonyms,level6,level6,level7
+Place names by type of place,City names,level6,level6,level7
+Place names by type of place,Country names,level6,level6,level7
+Place names by type of place,Mountain names,level6,level6,level7
+Place names by continent,Names of places in Antarctica,level6,level6,level7
+Place names by continent,Names of places in Asia,level6,level6,level7
+Place names by continent,Names of places in Europe,level6,level6,level7
+Place names by continent,Names of places in Oceania,level6,level6,level7
+Place names by continent,Names of places in the Americas,level6,level6,level7
+Place names by continent,Names of places in Africa,level6,level6,level7
+Place names by continent,Australian place names,level6,level6,level7
+Toponymic surnames,English toponymic surnames,level6,level6,level7
+Individual diamonds,Diamonds originating in Botswana,level6,level6,level7
+Individual diamonds,Diamonds originating in India,level6,level6,level7
+Individual diamonds,Diamonds originating in Russia,level6,level6,level7
+Individual diamonds,Diamonds originating in the USSR,level6,level6,level7
+Individual diamonds,Diamonds originating in South Africa,level6,level6,level7
+Individual diamonds,Diamonds originating in Brazil,level6,level6,level7
+Individual diamonds,Diamonds originating in the United States,level6,level6,level7
+Luxury brands,High fashion brands,level6,level6,level7
+Luxury brands,Chanel,level6,level6,level7
+Luxury brands,Gucci,level6,level6,level7
+Luxury brands,The Leading Hotels of the World,level6,level6,level7
+Luxury brands,Luxury brand holding companies,level6,level6,level7
+Luxury brands,The Swatch Group,level6,level6,level7
+Luxury brands,Kering brands,level6,level6,level7
+Luxury brands,LVMH brands,level6,level6,level7
+Luxury brands,Richemont brands,level6,level6,level7
+Luxury brands,Luxottica,level6,level6,level7
+Brand name products stubs,Brand name food products stubs,level6,level6,level7
+Lists of brands,Lists of brand name drinks,level6,level6,level7
+Lists of brands,Lists of motorcycles by brand,level6,level6,level7
+Lists of brands,Lists of brand name foods,level6,level6,level7
+Compilation album series branded by bars and cafés,Hôtel Costes albums,level6,level6,level7
+Defunct brands,Defunct consumer brands,level6,level6,level7
+Defunct brands,Defunct motor vehicle brands of Japan,level6,level6,level7
+Franchises,Restaurant franchises,level6,level6,level7
+Franchises,Franchised formats,level6,level6,level7
+Franchises,Hotel chains,level6,level6,level7
+Franchises,Media franchises,level6,level6,level7
+Brands by company,Dr Pepper Snapple Group brands,level6,level6,level7
+Brands by company,Ferrero brands,level6,level6,level7
+Brands by company,Mondelēz brands,level6,level6,level7
+Brands by company,PepsiCo brands,level6,level6,level7
+Brands by company,SNCF brands,level6,level6,level7
+Brands by company,United Biscuits brands,level6,level6,level7
+Brands by company,Cadbury-Schweppes brands,level6,level6,level7
+Brands by company,ConAgra Foods brands,level6,level6,level7
+Brands by company,Electrolux brands,level6,level6,level7
+Brands by company,General Mills brands,level6,level6,level7
+Brands by company,Mars brands,level6,level6,level7
+Brands by company,Maytag brands,level6,level6,level7
+Brands by company,Nestlé brands,level6,level6,level7
+Brands by company,Pinnacle Foods brands,level6,level6,level7
+Brands by company,Altadis brands,level6,level6,level7
+Brands by company,Alticor brands,level6,level6,level7
+Brands by company,Dean Foods brands,level6,level6,level7
+Brands by company,Jel Sert brands,level6,level6,level7
+Brands by company,MGA Entertainment brands,level6,level6,level7
+Brands by company,Parmalat units,level6,level6,level7
+Brands by company,Perfetti Van Melle brands,level6,level6,level7
+Brands by company,Realogy brands,level6,level6,level7
+Brands by company,Perry Ellis International brands,level6,level6,level7
+Brands by company,Ajegroup brands,level6,level6,level7
+Brands by company,Smithfield Foods brands,level6,level6,level7
+Brands by company,Hasbro brands,level6,level6,level7
+Brands by company,Cadbury brands,level6,level6,level7
+Brands by company,Revlon brands,level6,level6,level7
+Brands by company,Alliance Boots brands,level6,level6,level7
+Brands by company,American Licorice Company brands,level6,level6,level7
+Brands by company,Annabelle Candy Company brands,level6,level6,level7
+Brands by company,August Storck brands,level6,level6,level7
+Brands by company,Campbell Soup Company brands,level6,level6,level7
+Brands by company,Del Monte Foods brands,level6,level6,level7
+Brands by company,Falstaff Brewing Corporation brands,level6,level6,level7
+Brands by company,Fonterra brands,level6,level6,level7
+Brands by company,Goodman Fielder brands,level6,level6,level7
+Brands by company,Groupe Danone brands,level6,level6,level7
+Brands by company,Massimo Zanetti brands,level6,level6,level7
+Brands by company,McKee Foods brands,level6,level6,level7
+Brands by company,Michelin brands,level6,level6,level7
+Brands by company,Novartis brands,level6,level6,level7
+Brands by company,Post Foods brands,level6,level6,level7
+Brands by company,Quaker Oats Company brands,level6,level6,level7
+Brands by company,Schering-Plough brands,level6,level6,level7
+Brands by company,Snack Brands Australia brands,level6,level6,level7
+Brands by company,The Hershey Company brands,level6,level6,level7
+Brands by company,The Willy Wonka Candy Company brands,level6,level6,level7
+Brands by company,Tootsie Roll Industries brands,level6,level6,level7
+Brands by company,Whirlpool Corporation brands,level6,level6,level7
+Brands by company,Grupo Bimbo brands,level6,level6,level7
+Brands by company,Hostess Brands brands,level6,level6,level7
+Brands by company,Panasonic Corporation brands,level6,level6,level7
+Brands by company,Affinity Gaming,level6,level6,level7
+Brands by company,Ferrara Candy Company brands,level6,level6,level7
+Brands by company,Bacardi,level6,level6,level7
+Brands by company,Coca-Cola brands,level6,level6,level7
+Brands by company,DC Comics,level6,level6,level7
+Brands by company,Diageo brands,level6,level6,level7
+Brands by company,ExxonMobil brands,level6,level6,level7
+Brands by company,Heineken brands,level6,level6,level7
+Brands by company,Hormel brands,level6,level6,level7
+Brands by company,InBev brands,level6,level6,level7
+Brands by company,Kraft Foods brands,level6,level6,level7
+Brands by company,Marvel Comics,level6,level6,level7
+Brands by company,Pernod Ricard brands,level6,level6,level7
+Brands by company,RCA brands,level6,level6,level7
+Brands by company,Sanitarium Health and Wellbeing Company brands,level6,level6,level7
+Brands by company,Time Warner brands,level6,level6,level7
+Brands by company,Unilever brands,level6,level6,level7
+Brands by company,Wham-O brands,level6,level6,level7
+Brands by company,L Brands brands,level6,level6,level7
+Brands by company,FAW Group brands,level6,level6,level7
+Brands by company,SAIC Motor brands,level6,level6,level7
+Brands by company,Fast Retailing,level6,level6,level7
+Brands by company,San Miguel Corporation brands,level6,level6,level7
+Brands by company,Chevron Corporation brands,level6,level6,level7
+Brands by company,Associated British Foods brands,level6,level6,level7
+Brands by company,Combe Incorporated brands,level6,level6,level7
+Brands by company,Sara Lee Corporation brands,level6,level6,level7
+Brands by company,Flowers Foods brands,level6,level6,level7
+Brands by company,United Spirits brands,level6,level6,level7
+Brands by company,Backus and Johnston brands,level6,level6,level7
+Brands by company,Don Jorge brands,level6,level6,level7
+Brands by company,Wyndham brands,level6,level6,level7
+Brands by company,Alza brands,level6,level6,level7
+Brands by company,Orbitz brands,level6,level6,level7
+Brands by company,Ameristar casinos,level6,level6,level7
+Brands by company,Isle of Capri casinos,level6,level6,level7
+Brands by company,Pinnacle Entertainment,level6,level6,level7
+Brands by company,Brown-Forman brands,level6,level6,level7
+Brands by company,GlaxoSmithKline brands,level6,level6,level7
+Brands by company,Kellogg Company brands,level6,level6,level7
+Brands by company,Pfizer brands,level6,level6,level7
+Brands by company,Japan Tobacco brands,level6,level6,level7
+Brands by company,MOM Brands brands,level6,level6,level7
+Brands by company,3M brands,level6,level6,level7
+Brands by company,Adidas brands,level6,level6,level7
+Brands by company,Bayer brands,level6,level6,level7
+Brands by company,Beiersdorf brands,level6,level6,level7
+Brands by company,Casio brands,level6,level6,level7
+Brands by company,Clorox brands,level6,level6,level7
+Brands by company,Colgate-Palmolive brands,level6,level6,level7
+Brands by company,Frito-Lay brands,level6,level6,level7
+Brands by company,Gap brands,level6,level6,level7
+Brands by company,Gucci brands,level6,level6,level7
+Brands by company,Henkel brands,level6,level6,level7
+Brands by company,Just Born brands,level6,level6,level7
+Brands by company,Kimberly-Clark brands,level6,level6,level7
+Brands by company,Newell Rubbermaid brands,level6,level6,level7
+Brands by company,Nike brands,level6,level6,level7
+Brands by company,Philip Morris brands,level6,level6,level7
+Brands by company,Premier Foods brands,level6,level6,level7
+Brands by company,Reckitt Benckiser brands,level6,level6,level7
+Brands by company,Reebok brands,level6,level6,level7
+Brands by company,Siemens products,level6,level6,level7
+Brands by company,Station Casinos,level6,level6,level7
+Brands by company,Toshiba brands,level6,level6,level7
+Brands by company,Vicks brands,level6,level6,level7
+Brands by company,Wyeth brands,level6,level6,level7
+Brands by company,Necco brands,level6,level6,level7
+Brands by company,Topps confectionery products,level6,level6,level7
+Brands by company,Anheuser-Busch InBev brands,level6,level6,level7
+Brands by company,British Rail brands,level6,level6,level7
+Brands by company,Wrigley Company brands,level6,level6,level7
+Brands by company,British American Tobacco brands,level6,level6,level7
+Brands by company,Apex Tool Group brands,level6,level6,level7
+Brands by company,Mizkan brands,level6,level6,level7
+Brands by company,Sanyo products,level6,level6,level7
+Brands by company,ACCO Brands brands,level6,level6,level7
+Brands by company,Choice Hotels brands,level6,level6,level7
+Brands by company,Darden Restaurants brands,level6,level6,level7
+Brands by company,Fortune Brands brands,level6,level6,level7
+Brands by company,George Weston Limited brands,level6,level6,level7
+Brands by company,Intercontinental Hotels Group brands,level6,level6,level7
+Brands by company,Marriott International brands,level6,level6,level7
+Brands by company,Prestige Brands brands,level6,level6,level7
+Brands by company,Altria Group brands,level6,level6,level7
+Brands by company,Cooper Tools brands,level6,level6,level7
+Brands by company,Danaher Corporation brands,level6,level6,level7
+Brands by company,Molson Coors brands,level6,level6,level7
+Brands by company,Swizzels Matlow brands,level6,level6,level7
+Brands by company,Sears Holdings brands,level6,level6,level7
+Brands by company,Dubek brands,level6,level6,level7
+Brands by country,French brands,level6,level6,level7
+Brands by country,Norwegian brands,level6,level6,level7
+Brands by country,South Korean brands,level6,level6,level7
+Brands by country,Soviet brands,level6,level6,level7
+Brands by country,Spanish brands,level6,level6,level7
+Brands by country,Ukrainian brands,level6,level6,level7
+Brands by country,Belarusian brands,level6,level6,level7
+Brands by country,Georgian brands,level6,level6,level7
+Brands by country,Lithuanian brands,level6,level6,level7
+Brands by country,Slovak brands,level6,level6,level7
+Brands by country,Croatian brands,level6,level6,level7
+Brands by country,Indian brands,level6,level6,level7
+Brands by country,Singaporean brands,level6,level6,level7
+Brands by country,Clothing brands by country,level6,level6,level7
+Brands by country,Peruvian brands,level6,level6,level7
+Brands by country,Cuban brands,level6,level6,level7
+Brands by country,Indonesian brands,level6,level6,level7
+Brands by country,Iranian brands,level6,level6,level7
+Brands by country,Iraqi brands,level6,level6,level7
+Brands by country,Latvian brands,level6,level6,level7
+Brands by country,Pakistani brands,level6,level6,level7
+Brands by country,Romanian brands,level6,level6,level7
+Brands by country,Turkish brands,level6,level6,level7
+Brands by country,Chilean brands,level6,level6,level7
+Brands by country,Estonian brands,level6,level6,level7
+Brands by country,Brands of Liechtenstein,level6,level6,level7
+Brands by country,Brands of Bosnia and Herzegovina,level6,level6,level7
+Brands by country,Hungarian brands,level6,level6,level7
+Brands by country,Taiwanese brands,level6,level6,level7
+Brands by country,Jordanian brands,level6,level6,level7
+Brands by country,Saudi Arabian brands,level6,level6,level7
+Brands by country,South African brands,level6,level6,level7
+Brands by country,Icelandic brands,level6,level6,level7
+Brands by country,Jamaican brands,level6,level6,level7
+Brands by country,American brands,level6,level6,level7
+Brands by country,Australian brands,level6,level6,level7
+Brands by country,Belgian brands,level6,level6,level7
+Brands by country,British brands,level6,level6,level7
+Brands by country,Canadian brands,level6,level6,level7
+Brands by country,Czech brands,level6,level6,level7
+Brands by country,Danish brands,level6,level6,level7
+Brands by country,Dutch brands,level6,level6,level7
+Brands by country,Finnish brands,level6,level6,level7
+Brands by country,German brands,level6,level6,level7
+Brands by country,Italian brands,level6,level6,level7
+Brands by country,Japanese brands,level6,level6,level7
+Brands by country,Mexican brands,level6,level6,level7
+Brands by country,Scottish brands,level6,level6,level7
+Brands by country,Swedish brands,level6,level6,level7
+Brands by country,Montenegrin brands,level6,level6,level7
+Brands by country,Tea brands by country,level6,level6,level7
+Brands by country,Bolivian brands,level6,level6,level7
+Brands by country,Brands of the Dominican Republic,level6,level6,level7
+Brands by country,Costa Rican brands,level6,level6,level7
+Brands by country,Guatemalan brands,level6,level6,level7
+Brands by country,Haitian brands,level6,level6,level7
+Brands by country,Honduran brands,level6,level6,level7
+Brands by country,Nicaraguan brands,level6,level6,level7
+Brands by country,Paraguayan brands,level6,level6,level7
+Brands by country,Salvadoran brands,level6,level6,level7
+Brands by country,Uruguayan brands,level6,level6,level7
+Brands by country,Beer brands by country,level6,level6,level7
+Brands by country,Bulgarian brands,level6,level6,level7
+Brands by country,Argentine brands,level6,level6,level7
+Brands by country,Austrian brands,level6,level6,level7
+Brands by country,Brazilian brands,level6,level6,level7
+Brands by country,Colombian brands,level6,level6,level7
+Brands by country,Israeli brands,level6,level6,level7
+Brands by country,Polish brands,level6,level6,level7
+Brands by country,Puerto Rican brands,level6,level6,level7
+Brands by country,Russian brands,level6,level6,level7
+Brands by country,Serbian brands,level6,level6,level7
+Brands by country,Thai brands,level6,level6,level7
+Brands by country,Brands of Luxembourg,level6,level6,level7
+Brands by country,Moldovan brands,level6,level6,level7
+Brands by country,Tunisian brands,level6,level6,level7
+Brands by country,Kuwaiti brands,level6,level6,level7
+Brands by country,Syrian brands,level6,level6,level7
+Brands by country,Laotian brands,level6,level6,level7
+Brands by country,Lebanese brands,level6,level6,level7
+Brands by country,Albanian brands,level6,level6,level7
+Brands by country,Brands of the Republic of Macedonia,level6,level6,level7
+Brands by country,Brands of Monaco,level6,level6,level7
+Brands by country,Cambodian brands,level6,level6,level7
+Brands by country,New Zealand brands,level6,level6,level7
+Brands by country,Emirati brands,level6,level6,level7
+Brands by country,Irish brands,level6,level6,level7
+Brands by country,Kenyan brands,level6,level6,level7
+Brands by country,Malaysian brands,level6,level6,level7
+Brands by country,Maltese brands,level6,level6,level7
+Brands by country,Chinese brands,level6,level6,level7
+Brands by country,Bangladeshi brands,level6,level6,level7
+Brands by country,Panamanian brands,level6,level6,level7
+Brands by country,Ecuadorian brands,level6,level6,level7
+Brands by country,Egyptian brands,level6,level6,level7
+Brands by country,Greek brands,level6,level6,level7
+Brands by country,Philippine brands,level6,level6,level7
+Brands by country,Venezuelan brands,level6,level6,level7
+Brands by country,Swiss brands,level6,level6,level7
+Brands by country,Slovenian brands,level6,level6,level7
+Brands by country,Vietnamese brands,level6,level6,level7
+Brands by country,Kazakhstani brands,level6,level6,level7
+Brands by country,Cypriot brands,level6,level6,level7
+Brands by country,Libyan brands,level6,level6,level7
+Brands by country,Portuguese brands,level6,level6,level7
+Brands by country,Barbadian brands,level6,level6,level7
+Brands by country,Nigerian brands,level6,level6,level7
+Brands by country,Algerian brands,level6,level6,level7
+Brands by country,Moroccan brands,level6,level6,level7
+Brands by country,Qatari brands,level6,level6,level7
+Brands by country,Welsh brands,level6,level6,level7
+Brands by country,Sri Lankan brands,level6,level6,level7
+Brands by country,Armenian brands,level6,level6,level7
+Brands by country,Azerbaijani brands,level6,level6,level7
+Brands by country,Greenlandic brands,level6,level6,level7
+Brands by country,Angolan brands,level6,level6,level7
+Brands by country,Ghanaian brands,level6,level6,level7
+Brands by country,Omani brands,level6,level6,level7
+Brands by country,Palestinian brands,level6,level6,level7
+Brands by product type,Fashion accessory brands,level6,level6,level7
+Brands by product type,Rail transport brands,level6,level6,level7
+Brands by product type,Record labels,level6,level6,level7
+Brands by product type,Store brands,level6,level6,level7
+Brands by product type,Tea brands,level6,level6,level7
+Brands by product type,Art materials brands,level6,level6,level7
+Brands by product type,Bus transport brands,level6,level6,level7
+Brands by product type,Tobacco brands,level6,level6,level7
+Brands by product type,Cosmetics brands,level6,level6,level7
+Brands by product type,Financial services brands,level6,level6,level7
+Brands by product type,Automotive fuel brands,level6,level6,level7
+Brands by product type,Brand name condiments,level6,level6,level7
+Brands by product type,Consumer electronics brands,level6,level6,level7
+Brands by product type,Drink brands,level6,level6,level7
+Brands by product type,Kitchenware brands,level6,level6,level7
+Brands by product type,Lighting brands,level6,level6,level7
+Brands by product type,Personal care brands,level6,level6,level7
+Brands by product type,Plastic brands,level6,level6,level7
+Brands by product type,Toy brands,level6,level6,level7
+Brands by product type,Luggage brands,level6,level6,level7
+Brands by product type,Hospitality industry brands,level6,level6,level7
+Brands by product type,Drinking establishment chains,level6,level6,level7
+Brands by product type,Restaurant chains,level6,level6,level7
+Brands by product type,Regional airline brands,level6,level6,level7
+Brands by product type,Cleaning product brands,level6,level6,level7
+Brands by product type,Clothing brands,level6,level6,level7
+Brands by product type,Eyewear brands,level6,level6,level7
+Brands by product type,Food product brands,level6,level6,level7
+Brands by product type,Health care brands,level6,level6,level7
+Brands by product type,Home appliance brands,level6,level6,level7
+Brands by product type,Insecticide brands,level6,level6,level7
+Brands by product type,Sporting goods brands,level6,level6,level7
+Brands by product type,Products by brand,level6,level6,level7
+Brands by product type,Clock brands,level6,level6,level7
+Brands by product type,Watch brands,level6,level6,level7
+Brands by product type,Tool brands,level6,level6,level7
+Brands by product type,Pharmacy brands,level6,level6,level7
+Minor planets by source of name,Minor planets named for people,level6,level6,level7
+Minor planets by source of name,Minor planets named from mythology,level6,level6,level7
+Minor planets by source of name,Minor planets named from literature,level6,level6,level7
+Minor planets by source of name,Minor planets with names of unknown origin,level6,level6,level7
+Minor planets by source of name,Minor planets named for rivers,level6,level6,level7
+Names by culture,Scottish clans,level6,level6,level7
+Names by culture,Swedish names,level6,level6,level7
+Names by culture,Ancient Roman names,level6,level6,level7
+Names by culture,Surnames by culture,level6,level6,level7
+Names by culture,Dacian names,level6,level6,level7
+Names by culture,Belarusian names,level6,level6,level7
+Names by culture,Pakistani names,level6,level6,level7
+Names by culture,Jewish names,level6,level6,level7
+Names by culture,English names,level6,level6,level7
+Names by culture,Given names by culture,level6,level6,level7
+Names by culture,Sikh names,level6,level6,level7
+Names by culture,Islamic names,level6,level6,level7
+Names by culture,Polish names,level6,level6,level7
+Names by culture,Thai names,level6,level6,level7
+Names by culture,Nigerian names,level6,level6,level7
+Names by culture,Kenyan names,level6,level6,level7
+Names by culture,Germanic names,level6,level6,level7
+Patronymics,Patronymics from Greek mythology,level6,level6,level7
+Patronymics,Patronymic surnames,level6,level6,level7
+Patronymics,Ancient Greek patronymics,level6,level6,level7
+Informal personal names,Pseudonyms,level6,level6,level7
+Given names,Disambiguation pages with given-name-holder lists,level6,level6,level7
+Given names,Masculine given names,level6,level6,level7
+Given names,Theophoric names,level6,level6,level7
+Given names,Compound given names,level6,level6,level7
+Given names,Feminine given names,level6,level6,level7
+Given names,Unisex given names,level6,level6,level7
+Given names,Lists of people by given name,level6,level6,level7
+Given names,Given names originating from a surname,level6,level6,level7
+Given names,Given name types,level6,level6,level7
+Surname,Nobility,level6,level6,level7
+Surname,Surnames,level6,level6,level7
+Names by person,Name of Jesus,level6,level6,level7
+Names of God in Christianity,Tetragrammaton,level6,level6,level7
+Names of God in Hinduism,Titles and names of Krishna,level6,level6,level7
+Names of God in Hinduism,Sahasranama,level6,level6,level7
+Names of God in Judaism,Yahweh,level6,level6,level7
+Names of God in African traditional religions,Serer deities,level6,level6,level7
+Holy Spirit,Places related to the Holy Spirit in religious history,level6,level6,level7
+Holy Spirit,Fruit of the Holy Spirit,level6,level6,level7
+Holy Spirit,Pneumatology,level6,level6,level7
+Holy Spirit,Spiritual gifts,level6,level6,level7
+Epithets of Greek deities,Epithets of Hades,level6,level6,level7
+Epithets of Greek deities,Epithets of Rhea,level6,level6,level7
+Epithets of Greek deities,Epithets of Aphrodite,level6,level6,level7
+Epithets of Greek deities,Epithets of Apollo,level6,level6,level7
+Epithets of Greek deities,Epithets of Ares,level6,level6,level7
+Epithets of Greek deities,Epithets of Artemis,level6,level6,level7
+Epithets of Greek deities,Epithets of Asclepius,level6,level6,level7
+Epithets of Greek deities,Epithets of Demeter,level6,level6,level7
+Epithets of Greek deities,Epithets of Dionysus,level6,level6,level7
+Epithets of Greek deities,Epithets of Hera,level6,level6,level7
+Epithets of Greek deities,Epithets of Heracles,level6,level6,level7
+Epithets of Greek deities,Epithets of Hermes,level6,level6,level7
+Epithets of Greek deities,Epithets of Zeus,level6,level6,level7
+Epithets of Greek deities,Epithets of Athena,level6,level6,level7
+Epithets of Greek deities,Epithets of Hecate,level6,level6,level7
+Epithets of Greek deities,Epithets of Helios,level6,level6,level7
+Epithets of Greek deities,Epithets of Hephaestus,level6,level6,level7
+Epithets of Greek deities,Epithets of Poseidon,level6,level6,level7
+Names of God in Islam,Names of God in Sufism,level6,level6,level7
+Epithets of Roman deities,Epithets of Jupiter,level6,level6,level7
+Geographical naming disputes,Persian Gulf naming dispute,level6,level6,level7
+Encodings,Coding theory,level6,level6,level7
+Encodings,Line codes,level6,level6,level7
+Encodings,Symbols,level6,level6,level7
+Encodings,Character encoding,level6,level6,level7
+Encodings,Character sets,level6,level6,level7
+Encodings,Color codes,level6,level6,level7
+Encodings,Data serialization formats,level6,level6,level7
+Encodings,Morse code,level6,level6,level7
+Encodings,Numeral systems,level6,level6,level7
+Encodings,Signage,level6,level6,level7
+Encodings,Timecodes,level6,level6,level7
+Encodings,Writing systems,level6,level6,level7
+Encodings,Language of flowers,level6,level6,level7
+Filename extensions,Redirects from file extensions,level6,level6,level7
+Scientific nomenclature,Astronomical nomenclature,level6,level6,level7
+Scientific nomenclature,Biological nomenclature,level6,level6,level7
+Scientific nomenclature,Chemical nomenclature,level6,level6,level7
+Cults,Fictional cults,level6,level6,level7
+Cults,Anti-cult movement,level6,level6,level7
+Cults,Anti-cult organizations and individuals,level6,level6,level7
+Cults,Anti-cult terms and concepts,level6,level6,level7
+Cults,Christian countercult movement,level6,level6,level7
+Cults,Government opposition to new religious movements,level6,level6,level7
+Cults,Cults in France,level6,level6,level7
+Cults,Cult-related media,level6,level6,level7
+Pejorative terms for people,Sexuality and gender-related slurs,level6,level6,level7
+Pejorative terms for people,Class-related slurs,level6,level6,level7
+Pejorative terms for people,Ethnic and religious slurs,level6,level6,level7
+Political correctness,Critical pedagogy,level6,level6,level7
+Political correctness,Gender-neutral language,level6,level6,level7
+Political correctness,Criticism of political correctness,level6,level6,level7
+Political correctness,Political correctness-related controversies,level6,level6,level7
+Political correctness,Cultural appropriation,level6,level6,level7
+Reclaimed words,Wicca,level6,level6,level7
+Reclaimed words,Butch and femme,level6,level6,level7
+Reclaimed words,Whiggism,level6,level6,level7
+Eurocentrism,Pan-Europeanism,level6,level6,level7
+DOS files,DOS configuration files,level6,level6,level7
+DOS files,Third-party DOS files,level6,level6,level7
+Common names of organisms,Fungus common names,level6,level6,level7
+Common names of organisms,Plant common names,level6,level6,level7
+Common names of organisms,Animal common names,level6,level6,level7
+Common names of organisms,Animals by common name,level6,level6,level7
+Redirects to scientific names,Redirects to scientific names of spiders,level6,level6,level7
+Redirects to scientific names,Redirects to scientific names of fungi,level6,level6,level7
+Redirects to scientific names,Redirects to scientific names of plants,level6,level6,level7
+Ship identification numbers,ENI Number,level6,level6,level7
+Ship identification numbers,MMSI Number,level6,level6,level7
+Ship identification numbers,IMO Number,level6,level6,level7
+Arabic-language names,Arabic honorific titles,level6,level6,level7
+Arabic-language names,Arabic-language surnames,level6,level6,level7
+Arabic-language names,Arabic given names,level6,level6,level7
+Slavic-language names,Slavic-language surnames,level6,level6,level7
+Sinhalese names,Sinhalese given names,level6,level6,level7
+Sinhalese names,Sinhalese surnames,level6,level6,level7
+Yoruba-language names,Yoruba-language surnames,level6,level6,level7
+Yoruba-language names,Yoruba given names,level6,level6,level7
+Hebrew-language names,Hebrew given names,level6,level6,level7
+Hebrew-language names,Hebrew Bible people,level6,level6,level7
+Hebrew-language names,Hebrew-language surnames,level6,level6,level7
+Hebrew-language names,Hebrew names of Jewish holy days,level6,level6,level7
+Urdu names,Urdu-language surnames,level6,level6,level7
+Urdu names,Urdu given names,level6,level6,level7
+Baltic-language names,Baltic-language surnames,level6,level6,level7
+Greek-language names,Greek-language given names,level6,level6,level7
+Greek-language names,Greek-language surnames,level6,level6,level7
+English-language names,English-language surnames,level6,level6,level7
+English-language names,English-language given names,level6,level6,level7
+Korean-language names,Korean-language surnames,level6,level6,level7
+Korean-language names,Korean given names,level6,level6,level7
+Serbian-language names,Serbian given names,level6,level6,level7
+Given names by language,Germanic given names,level6,level6,level7
+Given names by language,German given names,level6,level6,level7
+Given names by language,Old Norse personal names,level6,level6,level7
+Given names by language,Ashanti given names,level6,level6,level7
+Given names by language,Kalabari-language given names,level6,level6,level7
+Given names by language,Given names of Greek language origin,level6,level6,level7
+Given names by language,Turkic given names,level6,level6,level7
+Given names by language,Shona given names,level6,level6,level7
+Given names by language,Gaelic-language given names,level6,level6,level7
+Given names by language,Given names of Hebrew language origin,level6,level6,level7
+Given names by language,Basque given names,level6,level6,level7
+Given names by language,Latin given names,level6,level6,level7
+Given names by language,Scandinavian given names,level6,level6,level7
+Given names by language,Slavic given names,level6,level6,level7
+Surnames by language,Chinese-language surnames,level6,level6,level7
+Surnames by language,Dutch-language surnames,level6,level6,level7
+Surnames by language,French-language surnames,level6,level6,level7
+Surnames by language,German-language surnames,level6,level6,level7
+Surnames by language,Germanic-language surnames,level6,level6,level7
+Surnames by language,Turkish-language surnames,level6,level6,level7
+Surnames by language,Surnames of Asian origin,level6,level6,level7
+Surnames by language,Surnames of North American origin,level6,level6,level7
+Surnames by language,Franco-Provençal-language surnames,level6,level6,level7
+Surnames by language,Hokkien-language surnames,level6,level6,level7
+Surnames by language,Danish-language surnames,level6,level6,level7
+Surnames by language,Iranian-language surnames,level6,level6,level7
+Surnames by language,Italian-language surnames,level6,level6,level7
+Surnames by language,Japanese-language surnames,level6,level6,level7
+Surnames by language,Latin-language surnames,level6,level6,level7
+Surnames by language,Low German surnames,level6,level6,level7
+Surnames by language,Russian-language surnames,level6,level6,level7
+Surnames by language,Surnames of European origin,level6,level6,level7
+Surnames by language,Azerbaijani-language surnames,level6,level6,level7
+Surnames by language,Bashkir-language surnames,level6,level6,level7
+Surnames by language,Caucasian surnames,level6,level6,level7
+Surnames by language,Chechen-language surnames,level6,level6,level7
+Surnames by language,Kazakh-language surnames,level6,level6,level7
+Surnames by language,Kyrgyz-language surnames,level6,level6,level7
+Surnames by language,Māori-language surnames,level6,level6,level7
+Surnames by language,Tatar-language surnames,level6,level6,level7
+Surnames by language,Turkic-language surnames,level6,level6,level7
+Surnames by language,Turkmen-language surnames,level6,level6,level7
+Surnames by language,Uyghur-language surnames,level6,level6,level7
+Surnames by language,Uzbek-language surnames,level6,level6,level7
+Surnames by language,Aymaran-language surnames,level6,level6,level7
+Surnames by language,Quechuan-language surnames,level6,level6,level7
+Surnames by language,Surnames of South American origin,level6,level6,level7
+Surnames by language,Bangladeshi Muslim names,level6,level6,level7
+Surnames by language,Bengali Muslim surnames,level6,level6,level7
+Surnames by language,Mongolian-language surnames,level6,level6,level7
+Surnames by language,Somali-language surnames,level6,level6,level7
+Surnames by language,Cornish-language surnames,level6,level6,level7
+Surnames by language,Hungarian-language surnames,level6,level6,level7
+Surnames by language,Romanian-language surnames,level6,level6,level7
+Surnames by language,Spanish-language surnames,level6,level6,level7
+Surnames by language,Yiddish-language surnames,level6,level6,level7
+Surnames by language,Occitan-language surnames,level6,level6,level7
+Surnames by language,Aromanian-language surnames,level6,level6,level7
+Surnames by language,Igbo-language surnames,level6,level6,level7
+Surnames by language,Breton-language surnames,level6,level6,level7
+Surnames by language,Hausa-language surnames,level6,level6,level7
+Surnames by language,Malagasy-language surnames,level6,level6,level7
+Surnames by language,Rhaeto-Romance surnames,level6,level6,level7
+Surnames by language,Xhosa-language surnames,level6,level6,level7
+Surnames by language,Samoan-language surnames,level6,level6,level7
+Surnames by language,Surnames of African origin,level6,level6,level7
+Surnames by language,Swedish-language surnames,level6,level6,level7
+Surnames by language,Basque-language surnames,level6,level6,level7
+Surnames by language,Estonian-language surnames,level6,level6,level7
+Surnames by language,Polish-language surnames,level6,level6,level7
+Surnames by language,Scottish-language surnames,level6,level6,level7
+Surnames by language,Armenian-language surnames,level6,level6,level7
+Surnames by language,Persian-language surnames,level6,level6,level7
+Surnames by language,Ukrainian-language surnames,level6,level6,level7
+Surnames by language,Welsh-language surnames,level6,level6,level7
+Surnames by language,Albanian-language surnames,level6,level6,level7
+Surnames by language,Belarusian-language surnames,level6,level6,level7
+Surnames by language,Bengali-language surnames,level6,level6,level7
+Surnames by language,Bosnian-language surnames,level6,level6,level7
+Surnames by language,Bulgarian-language surnames,level6,level6,level7
+Surnames by language,Celtic-language surnames,level6,level6,level7
+Surnames by language,Croatian-language surnames,level6,level6,level7
+Surnames by language,Gaelic-language surnames,level6,level6,level7
+Surnames by language,Galician-language surnames,level6,level6,level7
+Surnames by language,Georgian-language surnames,level6,level6,level7
+Surnames by language,Icelandic-language surnames,level6,level6,level7
+Surnames by language,Irish-language surnames,level6,level6,level7
+Surnames by language,Konkani-language surnames,level6,level6,level7
+Surnames by language,Macedonian-language surnames,level6,level6,level7
+Surnames by language,Manx-language surnames,level6,level6,level7
+Surnames by language,Montenegrin-language surnames,level6,level6,level7
+Surnames by language,Norwegian-language surnames,level6,level6,level7
+Surnames by language,Portuguese-language surnames,level6,level6,level7
+Surnames by language,Scottish Gaelic-language surnames,level6,level6,level7
+Surnames by language,Serbian-language surnames,level6,level6,level7
+Surnames by language,Slovak-language surnames,level6,level6,level7
+Surnames by language,Slovene-language surnames,level6,level6,level7
+Surnames by language,Telugu-language surnames,level6,level6,level7
+Surnames by language,Vietnamese-language surnames,level6,level6,level7
+Surnames by language,Catalan-language surnames,level6,level6,level7
+Surnames by language,Bantu-language surnames,level6,level6,level7
+Surnames by language,Swahili-language surnames,level6,level6,level7
+Surnames by language,Surnames of Hindustani origin,level6,level6,level7
+Surnames by language,Surnames of Indo-Iranian origin,level6,level6,level7
+Surnames by language,Finnish-language surnames,level6,level6,level7
+Surnames by language,Marathi-language surnames,level6,level6,level7
+Surnames by language,Afrikaans-language surnames,level6,level6,level7
+Surnames by language,Norman-language surnames,level6,level6,level7
+Surnames by language,Swiss-language surnames,level6,level6,level7
+Surnames by language,Assamese-language surnames,level6,level6,level7
+Surnames by language,Gujarati-language surnames,level6,level6,level7
+Surnames by language,Thai-language surnames,level6,level6,level7
+Celtic names,Celtic toponyms,level6,level6,level7
+Celtic names,Irish-language given names,level6,level6,level7
+Celtic names,Celtic given names,level6,level6,level7
+Tamil names,Tamil given names,level6,level6,level7
+Igbo names,Igbo clans,level6,level6,level7
+Japanese names,Japanese given names,level6,level6,level7
+DNS software,DNS server software for Linux,level6,level6,level7
+Top-level domains,Country code top-level domains,level6,level6,level7
+Top-level domains,Generic top-level domains,level6,level6,level7
+Top-level domains,DNSSEC,level6,level6,level7
+Top-level domains,Redirects from top-level domains,level6,level6,level7
+Top-level domains,Pseudo-top-level domains,level6,level6,level7
+Domain names,Redirects from domain names,level6,level6,level7
+Domain names,Domain names in the United States,level6,level6,level7
+Domain names,Domain names of Singapore,level6,level6,level7
+Domain names,Domain names of the United Kingdom,level6,level6,level7
+Domain names,Domain name lists,level6,level6,level7
+Area codes in the United States,Area codes in the United States by state,level6,level6,level7
+Area codes in the United States,Revoked or withdrawn area codes in the United States,level6,level6,level7
+Vehicle registration plates of the United States,Vehicle registration plates of the United States by year,level6,level6,level7
+Vehicle registration plates of the United States,Vehicle registration plates of the United States by state or territory,level6,level6,level7
+Communication design,AIGA medalists,level6,level6,level7
+Communication design,Art directors,level6,level6,level7
+Communication design,Graphics,level6,level6,level7
+Communication design,Advertising,level6,level6,level7
+Communication design,Documents,level6,level6,level7
+Communication design,Graphic design,level6,level6,level7
+Communication design,Heraldry,level6,level6,level7
+Communication design,Infographics,level6,level6,level7
+Communication design,Lithography,level6,level6,level7
+Communication design,Political communication,level6,level6,level7
+Communication design,Printmaking,level6,level6,level7
+Communication design,Visual arts,level6,level6,level7
+Containers,Bottles,level6,level6,level7
+Containers,Clothing containers,level6,level6,level7
+Containers,Computer enclosure,level6,level6,level7
+Containers,Food storage containers,level6,level6,level7
+Containers,Container deposit legislation,level6,level6,level7
+Containers,Time capsules,level6,level6,level7
+Containers,Coffins,level6,level6,level7
+Containers,Waste containers,level6,level6,level7
+Containers,Pressure vessels,level6,level6,level7
+Containers,Bags,level6,level6,level7
+Containers,Aerosol sprays,level6,level6,level7
+Containers,Nested containers,level6,level6,level7
+Containers,Reliquaries,level6,level6,level7
+Containers,Wine accessories,level6,level6,level7
+Containers,Images of cans,level6,level6,level7
+Containers,Shipping containers,level6,level6,level7
+Containers,Stoneware,level6,level6,level7
+Containers,Glass containers,level6,level6,level7
+Containers,Money containers,level6,level6,level7
+Containers,Liquid containers,level6,level6,level7
+Containers,Single-serve containers,level6,level6,level7
+Containers,Garden vases,level6,level6,level7
+Containers,Fuel containers,level6,level6,level7
+Packaging materials,Paperboard,level6,level6,level7
+Packaging materials,Jute,level6,level6,level7
+Packing problems,Circle packing,level6,level6,level7
+Packaging industry,Packaging companies,level6,level6,level7
+Maintenance,Engineering failures,level6,level6,level7
+Maintenance,Failure,level6,level6,level7
+Maintenance,Reliability engineering,level6,level6,level7
+Maintenance,Bridge disasters,level6,level6,level7
+Maintenance,Maintenance of way equipment,level6,level6,level7
+Maintenance,Nondestructive testing,level6,level6,level7
+Maintenance,Aircraft maintenance,level6,level6,level7
+Maintenance,Firearm maintenance,level6,level6,level7
+Maintenance,Software maintenance,level6,level6,level7
+Maintenance,Automobile maintenance,level6,level6,level7
+Maintenance,Military maintenance,level6,level6,level7
+Maintenance,Bridge maintenance,level6,level6,level7
+Maintenance,Camera maintenance,level6,level6,level7
+Software project management,Agile software development,level6,level6,level7
+Software project management,Maturity models,level6,level6,level7
+Software project management,Software engineering costs,level6,level6,level7
+Software development,Software forks,level6,level6,level7
+Software development,Web development,level6,level6,level7
+Software development,Amiga development software,level6,level6,level7
+Software development,Computer programming,level6,level6,level7
+Software development,Internationalization and localization,level6,level6,level7
+Software development,Software development books,level6,level6,level7
+Software development,Software development philosophies,level6,level6,level7
+Software development,Software development process,level6,level6,level7
+Software development,Software documentation,level6,level6,level7
+Software development,Video game development,level6,level6,level7
+Software development,Coding schools,level6,level6,level7
+Software development,Software development by platforms,level6,level6,level7
+Software development,Software developer communities,level6,level6,level7
+Software development,Software release,level6,level6,level7
+Software development,Software development events,level6,level6,level7
+Software development,Upcoming software,level6,level6,level7
+Project management,PRINCE2,level6,level6,level7
+Project management,Project management software,level6,level6,level7
+Project management,Collaborative projects,level6,level6,level7
+Project management,Project management certification,level6,level6,level7
+Project management,Project management professional associations,level6,level6,level7
+Project management,Cost engineering,level6,level6,level7
+Project management,Critical Path Scheduling,level6,level6,level7
+Upcoming products,Upcoming albums,level6,level6,level7
+Upcoming products,Upcoming films,level6,level6,level7
+Upcoming products,Upcoming television episodes,level6,level6,level7
+Upcoming products,Upcoming automobile models,level6,level6,level7
+Upcoming products,Emerging technologies,level6,level6,level7
+Upcoming products,Upcoming television seasons,level6,level6,level7
+Upcoming products,Upcoming telenovelas,level6,level6,level7
+Upcoming products,Upcoming integrated circuits,level6,level6,level7
+Upcoming products,Upcoming books,level6,level6,level7
+Upcoming products,Upcoming television series,level6,level6,level7
+Weapon development,Experimental missiles,level6,level6,level7
+Weapon development,Experimental rockets,level6,level6,level7
+Weapon development,Nuclear weapons programs,level6,level6,level7
+Weapon development,Target missiles,level6,level6,level7
+Weapon development,Weapon design,level6,level6,level7
+Weapon development,Weapons scientists and engineers,level6,level6,level7
+Weapon development,3D printed firearms,level6,level6,level7
+Weapon development,Weapon testing,level6,level6,level7
+Weapon development,Trial and research firearms,level6,level6,level7
+Weapon development,Weapons manufacturing companies,level6,level6,level7
+Weapon development,Abandoned military projects,level6,level6,level7
+Weapon development,Trial and research tanks,level6,level6,level7
+Research and development by country,Research and development in the United Kingdom,level6,level6,level7
+Research and development by country,Research and development in the United States,level6,level6,level7
+Research and development by country,Research and development in Japan,level6,level6,level7
+Research and development by country,Research and development in Pakistan,level6,level6,level7
+Research and development by country,Research and development in Australia,level6,level6,level7
+Research and development by country,Research and development in Belgium,level6,level6,level7
+Research and development by country,Research and development in Germany,level6,level6,level7
+Research and development by country,Research and development in India,level6,level6,level7
+Research and development by country,Research and development in Israel,level6,level6,level7
+Research and development by country,Research and development in Norway,level6,level6,level7
+Research and development by country,Research and development in Portugal,level6,level6,level7
+Research and development by country,Research and development in Russia,level6,level6,level7
+Research and development by country,Research and development in Spain,level6,level6,level7
+Research and development by country,Research and development in Sweden,level6,level6,level7
+Research and development by country,Research and development in Canada,level6,level6,level7
+Research and development by continent,Research and development in Asia,level6,level6,level7
+Research and development by continent,Research and development in North America,level6,level6,level7
+Research and development by continent,Research and development in Oceania,level6,level6,level7
+Research and development by continent,Research and development in Europe,level6,level6,level7
+Research and development organizations,Google X,level6,level6,level7
+Research and development organizations,Clinical trial organizations,level6,level6,level7
+Research and development organizations,Research organizations,level6,level6,level7
+Research and development organizations,Innovation organizations,level6,level6,level7
+Research and development organizations,Council of Scientific and Industrial Research,level6,level6,level7
+Prototypes,Concept motorcycles,level6,level6,level7
+Prototypes,Sports prototypes,level6,level6,level7
+Prototypes,Experimental vehicles,level6,level6,level7
+Military research,Military research of the United States,level6,level6,level7
+Military research,Military research facilities,level6,level6,level7
+Military research,Military medical research,level6,level6,level7
+Military research,Military research institutes,level6,level6,level7
+Military research,Military research of India,level6,level6,level7
+Military research,Military research of the United Kingdom,level6,level6,level7
+University and college laboratories,University and college laboratories in the United Kingdom,level6,level6,level7
+University and college laboratories,University and college laboratories in the United States,level6,level6,level7
+Consumer symbols,Ecolabelling,level6,level6,level7
+Fair use,Fair use case law,level6,level6,level7
+Patent medicines,Patent medicine businesspeople,level6,level6,level7
+Patent medicines,Throat lozenges,level6,level6,level7
+Geographical Indications in India,Geographical Indications in Kerala,level6,level6,level7
+Geographical Indications in India,Geographical Indications in Odisha,level6,level6,level7
+Geographical Indications in India,Geographical Indications in Tamil Nadu,level6,level6,level7
+Geographical Indications in India,Geographical indications in Andhra Pradesh,level6,level6,level7
+Geographical Indications in India,Geographical indications in Telangana,level6,level6,level7
+Geographical Indications in India,Geographical Indications in Chhattisgarh,level6,level6,level7
+Geographical Indications in India,Geographical Indications in Himachal Pradesh,level6,level6,level7
+Geographical Indications in India,Geographical Indications in Karnataka,level6,level6,level7
+Geographical Indications in India,Geographical Indications in Madhya Pradesh,level6,level6,level7
+Geographical Indications in India,Geographical Indications in Maharashtra,level6,level6,level7
+Geographical Indications in India,Geographical Indications in Nagaland,level6,level6,level7
+Geographical Indications in India,Geographical Indications in Puducherry,level6,level6,level7
+Geographical Indications in India,Geographical Indications in Rajasthan,level6,level6,level7
+Geographical Indications in India,Geographical Indications in Uttar Pradesh,level6,level6,level7
+Geographical Indications in India,Geographical Indications in West Bengal,level6,level6,level7
+Geographical Indications in India,Geographical indications in Bihar,level6,level6,level7
+Geographical Indications in India,Geographical indications in Gujarat,level6,level6,level7
+Geographical Indications in India,Geographical Indications in Goa,level6,level6,level7
+Geographical Indications in India,Geographical indications in Assam,level6,level6,level7
+Trademark case law,United States trademark case law,level6,level6,level7
+Trademark law by jurisdiction,United States trademark law,level6,level6,level7
+Trademark law by jurisdiction,Canadian trademark law,level6,level6,level7
+Trademark law by jurisdiction,Indian trademark law,level6,level6,level7
+Disney books,Indiana Jones books,level6,level6,level7
+Disney books,The Kingdom Keepers,level6,level6,level7
+Disney books,The Muppets books,level6,level6,level7
+Disney books,Books based on Star Wars,level6,level6,level7
+Disney books,Hyperion Books books,level6,level6,level7
+Disney books,Disney Comics titles,level6,level6,level7
+Indiana Jones games,Indiana Jones and the Last Crusade games,level6,level6,level7
+Indiana Jones games,Indiana Jones video games,level6,level6,level7
+Indiana Jones games,Indiana Jones and the Temple of Doom games,level6,level6,level7
+Indiana Jones games,Raiders of the Lost Ark games,level6,level6,level7
+Marvel Comics games,Video games based on Marvel Comics,level6,level6,level7
+Marvel Comics games,Marvel Comics role-playing games,level6,level6,level7
+Marvel Comics games,Collectible card games based on Marvel Comics,level6,level6,level7
+Disney video games,Kingdom Hearts,level6,level6,level7
+Disney video games,Donald Duck video games,level6,level6,level7
+Disney video games,Mickey Mouse video games,level6,level6,level7
+Disney video games,Disney sports video games,level6,level6,level7
+Disney video games,Pirates of the Caribbean video games,level6,level6,level7
+Disney video games,Star Wars video games,level6,level6,level7
+Disney video games,The Haunted Mansion video games,level6,level6,level7
+Disney video games,The Incredibles video games,level6,level6,level7
+Disney video games,Tron video games,level6,level6,level7
+Disney video games,Winnie-the-Pooh video games,level6,level6,level7
+Disney video games,Video games based on Walt Disney Parks and Resorts attractions,level6,level6,level7
+Disney video games,LucasArts games,level6,level6,level7
+Disney video games,The Muppets video games,level6,level6,level7
+Disney video games,Disney games by Capcom,level6,level6,level7
+Disney video games,Video games based on DuckTales,level6,level6,level7
+Disney video games,Epic Mickey,level6,level6,level7
+Disney video games,High School Musical video games,level6,level6,level7
+Disney video games,Disney animated features canon-based video games,level6,level6,level7
+Disney video games,Who Framed Roger Rabbit video games,level6,level6,level7
+Disney video games,ESPN video games,level6,level6,level7
+Disney video games,Spectrobes,level6,level6,level7
+Disney video games,Tapulous games,level6,level6,level7
+Disney video games,The Cheetah Girls video games,level6,level6,level7
+Disney video games,Toy Story video games,level6,level6,level7
+Disney video games,Video games based on Disney Channel shows,level6,level6,level7
+Disney video games,Video games based on Lucasfilm films,level6,level6,level7
+Disney video games,The Nightmare Before Christmas video games,level6,level6,level7
+Disney video games,Video games based on Pixar films,level6,level6,level7
+Lego themes licensed from Disney,Lego Star Wars,level6,level6,level7
+Jingles,Jingle companies,level6,level6,level7
+Jingles,Jingle writers,level6,level6,level7
+Jingles,Jingle composers,level6,level6,level7
+Jingles,Songs used as jingles,level6,level6,level7
+Jingles,Songs based on jingles,level6,level6,level7
+Free DICOM software,Free DICOM server software,level6,level6,level7
+Master System games,Master System-only games,level6,level6,level7
+Master System games,Master System game covers,level6,level6,level7
+Master System games,Cancelled Master System games,level6,level6,level7
+Master System games,Screenshots of Master System games,level6,level6,level7
+Xbox 360,Xbox 360 software,level6,level6,level7
+Xbox 360,Xbox 360 hardware,level6,level6,level7
+Offshore radio,Radio ships,level6,level6,level7
+Offshore radio,Offshore radio broadcasters,level6,level6,level7
+Pirate radio stations,Pirate radio stations in Canada,level6,level6,level7
+Pirate radio stations,Pirate radio stations in the United Kingdom,level6,level6,level7
+Pirate radio stations,Pirate radio stations in the United States,level6,level6,level7
+Pirate radio stations,Former pirate radio stations,level6,level6,level7
+Rakuten,Tohoku Rakuten Golden Eagles,level6,level6,level7
+Rakuten,Vissel Kobe,level6,level6,level7
+Online grocers,Online grocery delivery,level6,level6,level7
+Online retailers by country,Online retailers of the United States,level6,level6,level7
+Online retailers by country,Online retailers of Germany,level6,level6,level7
+Online retailers by country,Online retailers of China,level6,level6,level7
+Online retailers by country,Online retailers of Italy,level6,level6,level7
+Online retailers by country,Online retailers of England,level6,level6,level7
+Online retailers by country,Online retailers of the United Arab Emirates,level6,level6,level7
+Online retailers by country,Online retailers of Denmark,level6,level6,level7
+Online retailers by country,Online retailers of the Netherlands,level6,level6,level7
+Online retailers by country,Online retailers of South Africa,level6,level6,level7
+Online retailers by country,Online retailers of the United Kingdom,level6,level6,level7
+Online retailers by country,Online retailers of Canada,level6,level6,level7
+Online retailers by country,Online retailers of Poland,level6,level6,level7
+Online retailers by country,Online retailers of Russia,level6,level6,level7
+Online retailers by country,Online retailers of South Korea,level6,level6,level7
+Online retailers by country,Online retailers of Sweden,level6,level6,level7
+Online retailers by country,Online retailers of Finland,level6,level6,level7
+Online retailers by country,Online retailers of Australia,level6,level6,level7
+Book selling websites,Indigo Books and Music,level6,level6,level7
+Credit card rewards programs,Frequent flyer programs associated with credit cards,level6,level6,level7
+Netflix original programming,Netflix original films,level6,level6,level7
+Webcomic publishing companies,Keenspot,level6,level6,level7
+Webcomic publishing companies,Free webcomic hosting services,level6,level6,level7
+Webcomic publishing companies,Comic Genesis,level6,level6,level7
+Online companies of the United States,American businesspeople in the online media industry,level6,level6,level7

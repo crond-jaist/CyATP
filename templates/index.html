@@ -1,0 +1,179 @@
+{% extends 'base.html' %}
+
+{%block head%}
+<title>CyATP Home Page</title>
+
+{% endblock%}
+
+{% block content %}
+
+<div id="container" class="effect aside-float aside-bright mainnav-sm">
+    <div class="boxed">
+        <div id="content-container">
+            <div id="page-content">
+            </div>
+        </div>
+    </div>
+</div>
+
+<main role="main" class="container">
+    <div>
+        <h1>Welcome to CyATP!</h1>
+        <hr>
+        <p class="lead">CyATP (Cybersecurity Awareness Training Platform) is a learning tool for everyone who wants to gain cybersecurity awareness. This online platform is based on the concept of "serious games", which aims to enhance the interest of learners, leading them into learning while playing games with a serious content. CyATP includes a <b>quiz</b> and a <b>crossword puzzle</b> as cybersecurity awareness serious games.</p><br/>
+        <p class="lead">The main features of the CyATP training platform are as follows:</p>
+        <ul>
+            <li>
+                <div style="font-weight: bold">Rich Content</div>
+                The included training database contains already a lot of cybersecurity awareness content. Thus, there are 2640 cybersecurity concepts, 2315 concept definitions, 278 concept-based quiz questions (just for the 126 concepts on the 0-2 level), and 28 clues for the crossword puzzle (just for the 126 concepts on the 0-2 level).
+            </li>
+            <li>
+                <div style="font-weight: bold">Convenience</div>
+                This web-based application enables learners to study anywhere and at any time. No environment installation and configuration are needed, just a regular web browser is enough. Operation is simple and the user interface is friendly.
+            </li>
+            <li>
+                <div style="font-weight: bold">Entertainment</div>
+                Given the serious game approach, there is a short feedback cycle for learners, via an immediate stream of rewards and penalties. In addition, a good balance is achieved between having fun and learning cybersecurity awareness content.
+            </li>
+        </ul>
+
+        <br><br>
+        <hr>
+
+        <section class="wt-section">
+            <div class="container">
+                <div class="row justify-content-md-center align-items-center text-center"
+                     style="margin-bottom: 0;padding-bottom: 0;">
+                    <div class="col-md-6 px-md-5">
+                        <i class="fab fa-connectdevelop display-4 text-primary mb-4"></i>
+                        <h2 class="mb-md-4 mt-3">Concept Map</h2>
+                        <p class="text-muted" style="text-align: left">- Shows the cybersecurity concept map available in the database</p>
+                        <p class="text-muted" style="text-align: left">- Related concepts are displayed for each clicked concept</p>
+                        <p class="text-muted" style="text-align: left">- Use the top navigation bar to select the depth level of the concepts to be shown</p>
+                        <p class="text-muted" style="text-align: left">- Click the top-right corner "Save" button to store the concepts of interest</p>
+                        <div class="mb-md-5 mb-4">
+                            <a href="{{ url_for('map')}}" class="btn-read-more">View Now</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <img class="rounded mw-100" src="../static/images/concept_map.gif" alt="concepy_map_page">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="wt-section">
+            <div class="container">
+                <div class="row justify-content-md-center align-items-center text-center"
+                     style="margin-bottom: 0;padding-bottom: 0;">
+                    <div class="col-md-6">
+                        <img class="rounded mw-100" src="../static/images/learn.gif" alt="learn_page">
+                    </div>
+                    <div class="col-md-6 px-md-5">
+                        <i class="fab fa-connectdevelop display-4 text-primary mb-4"></i>
+                        <h2 class="mb-md-4 mt-3">Learn Concepts</h2>
+                        <p class="text-muted" style="text-align: left">- Search for any concepts you are interested in.</p>
+                        <p class="text-muted" style="text-align: left">- An explanation of the concept will be displayed, as well as its place in the concept map</p>
+                        <p class="text-muted" style="text-align: left">- If you are not sure what concept to learn, try one of the recommendations in the word cloud.</p>
+                        <div class="mb-md-5 mb-4">
+                            <a href="{{ url_for('learn')}}" class="btn-read-more">Learn Now</a>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+
+        <section class="wt-section">
+            <div class="container">
+                <div class="row justify-content-md-center align-items-center text-center">
+                    <div class="col-md-6 px-md-5">
+                        <i class="fab fa-connectdevelop display-4 text-primary mb-4"></i>
+                        <h2 class="mb-md-4 mt-3">Take Quiz</h2>
+                        <p class="text-muted" style="text-align: left">- Click "Start Game", and some quiz questions will be randomly selected from the database. You have 30 seconds to answer each of them. </p>
+                        <p class="text-muted" style="text-align: left">- During the quiz, you can see the number of remaining questions and your current points. When the game is over, click on the detail button to get feedback on your answers.</p>
+                        <p class="text-muted" style="text-align: left">- If a question seems wrong or strange, you can click the "Feedback about question" button and tell us about it. We appreciate your feedback!</p>
+                        <div class="mb-md-5 mb-4">
+                            <a href="{{ url_for('quiz') }}" class="btn-read-more">Play Now</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <img class="rounded mw-100" src="../static/images/quiz.gif" alt="quiz_page">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="wt-section">
+            <div class="container">
+                <div class="row justify-content-md-center align-items-center text-center">
+                    <div class="col-md-6">
+                        <img class="rounded mw-100" src="../static/images/puzzle.gif" alt="crossword_puzzle_page">
+                    </div>
+                    <div class="col-md-6 px-md-5">
+                        <i class="fab fa-connectdevelop display-4 text-primary mb-4"></i>
+                        <h2 class="mb-md-4 mt-3">Crossword Puzzle</h2>
+                        <p class="text-muted" style="text-align: left">- Use the clues shown on the left-hand side to try to solve the crossword puzzle.</p>
+                        <p class="text-muted" style="text-align: left">- When you answer correctly, the entered word will turn green.</p>
+                        <p class="text-muted" style="text-align: left">- Note that all answers use lower-case letters and no spaces.</p>
+                        <div class="mb-md-5 mb-4">
+                            <a href="{{ url_for('puzzle') }}" class="btn-read-more">Play Now</a>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+
+
+        <section class="wt-section">
+            <div class="container">
+                <div class="row justify-content-md-center align-items-center text-center">
+                    <div class="col-md-6 px-md-5">
+                        <i class="fab fa-connectdevelop display-4 text-primary mb-4"></i>
+                        <h2 class="mb-md-4 mt-3">Take Survey</h2>
+                        <p class="text-muted" style="text-align: left">- We use the SUS (System Usability Scale) to evaluate our platform.</p>
+                        <p class="text-muted" style="text-align: left">- We would love to hear from you about how do you think about our platform. This will help us make improvements to the platform.</p>
+                        <p class="text-muted" style="text-align: left">- Your responses are completely anonymous. We appreciate your support!</p>
+                        <div class="mb-md-5 mb-4">
+                            <a href="{{ url_for('survey') }}" class="btn-read-more">Take Now</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <img class="rounded mw-100" src="../static/images/survey.gif" alt="survey_page">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <br/><br/><br/><br/>
+
+        <h2>Contact & Share</h2>
+        <hr>
+
+        </section>
+        <div class="container">
+            <div class="row justify-content-between align-items-center">
+                <div class="col-md-6 px-md-5">
+                    <i class="fab fa-connectdevelop display-4 text-primary mb-4"></i>
+                    <h2 class="mb-4">Contact</h2>
+                    <p class="text-muted">info@cyatp.org</p>
+                    <h2 class="mb-4">Share</h2>
+                    <p class="text-muted">If you want to share CyATP with your friends, click the icon below.</p>
+                    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button"
+                       data-via="" data-hashtags="CyATP" data-lang="en" data-show-count="false">Tweet</a>
+                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+                <div class="col-md-6">
+                    <img class="rounded mw-100" src="../static/images/share.png" alt="share">
+                </div>
+            </div>
+
+        </div>
+        </section>
+
+    </div>
+</main>
+{% endblock %}

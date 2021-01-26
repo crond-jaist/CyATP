@@ -1,0 +1,273 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Learn Page</title>
+<script src="../static/js/echarts.min.js"></script>
+<script src="../static/js/tags.js"></script>
+<script src="../static/js/nifty-demo.min.js"></script>
+<style type="text/css">
+    #tagsList {
+        position: relative;
+        width: 250px;
+        height: 250px;
+    }
+
+    #tagsList a {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        font-family: Microsoft YaHei;
+        color: gray;
+        font-weight: bold;
+        text-decoration: none;
+        padding: 3px 6px;
+    }
+
+    #tagsList a:hover {
+        color: #249e92;
+        letter-spacing: 2px;
+    }
+
+    #search:focus {
+        border: 1px solid #249e92;
+    }
+</style>
+
+{% endblock %}
+
+{% block content %}
+
+<div class='content-fluid'>
+    <div id="content-container">
+        <div id="page-content">
+
+            <div class="row">
+                <div class="col-md-4"></div>
+                <div class="col-md-4">
+                    <div class="input-group">
+                        <input type="text" id="search" class="form-control input-lg"
+                               placeholder="Please input keyword...">
+                        <span class="input-group-addon btn btn-success" onclick="search()">Search</span>
+
+                    </div>
+                </div>
+                <div class="col-md-5"></div>
+            </div>
+
+
+            <div class="row" style="height: 40px;"></div>
+            <div id='note'></div>
+            <ol id='item'></ol>
+            <div class="row">
+                <div class="col-lg-7" style="height: 600px; width: 600px;" id="guanxi"></div>
+                <div class="row">
+                    <div class="col-lg-3" id="tagsList">
+                        <a href="#" data="Computer security">Computer security</a>
+                        <a href="#" data="Access control">Access control</a>
+                        <a href="#" data="Computer network security">Computer network security</a>
+                        <a href="#" data="Trojan horses">Trojan horses</a>
+                        <a href="#" data="Computer viruses">Computer viruses</a>
+                        <a href="#" data="Computer worms">Computer worms</a>
+                        <a href="#" data="Linux viruses">Linux viruses</a>
+                        <a href="#" data="Email worms">Email worms</a>
+                        <a href="#" data="Information privacy">Information privacy</a>
+                        <a href="#" data="Cryptography">Cryptography</a>
+                        <a href="#" data="Spyware">Spyware</a>
+                        <a href="#" data="Firewall">Firewall</a>
+                    </div>
+                </div>
+
+
+                <div class="row">
+                    <div style="position:absolute; height:400px; width: 500px; overflow:auto; margin-left: 50px">
+                        <div class="basic-info ">
+                            <dl class="basicInfo-block basicInfo-left" id="profile_0" style="font-weight: bold"></dl>
+                            <dl class="basicInfo-block basicInfo-left" id="define"></dl>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+
+            <script type="text/javascript">
+                $(document).keypress(function (e) {
+                    // Enter key event
+                    if (e.which == 13) {
+                        search();
+                    }
+                });
+                window.onresize = function () {
+                    myChart.resize();
+                }
+                // false synchronous request, true asynchronous request
+                $.ajaxSetup({async: false});
+                var myChart = echarts.init(document.getElementById("guanxi"));
+                myChart.showLoading();
+                myChart.hideLoading();
+                option = {
+                    title: {
+                        text: '    Concept Map',
+                        textStyle: {
+                            fontWeight: "lighter",
+                            fontSize: 25,
+                        }
+                    },
+                    animationDurationUpdate: 1500,
+                    animationEasingUpdate: 'quinticInOut',
+                    legend: {
+                        x: "center",
+                        show: true,
+                        data: ["level0", "level1", "level2", "level3", "level4", "level5", "level6", "level7"]
+                    },
+                    series: [
+                        {
+                            type: 'graph',
+                            layout: 'force',
+                            symbolSize: 50,
+                            edgeSymbol: ['circle', 'arrow'],
+                            edgeSymbolSize: [4, 4],
+                            edgeLabel: {
+                                normal: {
+                                    show: true,
+                                    textStyle: {
+                                        fontSize: 10
+                                    },
+                                    formatter: "{c}"
+                                }
+                            },
+                            force: {
+                                repulsion: 2500,
+                                edgeLength: [10, 100]
+                            },
+                            focusNodeAdjacency: true,
+                            draggable: true,
+                            roam: true,
+                            categories: [
+                                {name: 'level0',},
+                                {name: 'level1',},
+                                {name: 'level2',},
+                                {name: 'level3',},
+                                {name: 'level4',},
+                                {name: 'level5',},
+                                {name: 'level6',},
+                                {name: 'level7'}],
+                            label: {
+                                normal: {
+                                    show: true,
+                                    textStyle: {
+                                        fontSize: 10,
+                                        color: 'black',
+                                        fontWeight: 'bolder',
+                                    },
+                                }
+                            },
+                            force: {
+                                repulsion: 1000
+                            },
+                            tooltip: {
+                                textStyle: {color: 'black', fontSize: 15, fontWeight: 'bold'},
+                                formatter: function (node) {
+                                    // Distinguish between connections and nodes, and additional numbers are displayed on the nodes
+                                    if (!node.value) {
+                                        return node.data.name;
+                                    } else {
+                                        return node.data.name + ":" + node.data.showNum;
+                                    }
+                                },
+                            },
+                            lineStyle: {
+                                normal: {
+                                    opacity: 0.9,
+                                    width: 1,
+                                    curveness: 0.3
+                                }
+                            },
+                            // progressiveThreshold: 700,
+                            nodes: [],
+                            links: [],
+
+
+                        }
+                    ]
+                };
+
+                // When the node on the cloud graph is clicked, the event is triggered
+                myChart.on('click', function (params) {
+                    // Pass the clicked node params.name to province
+                    var province = params.name;
+                    $.getJSON('/get_profile', {
+                        //Assign the value of province to the /get_profile page and pass the parameters
+                        name: province,
+                    }, function (json) {
+                        $("#profile_0").prepend(json.define + '<hr/>');
+                        $("#profile_0").prepend(json.data + '<hr/>');
+                    });
+                });
+
+
+                function search() {
+                    $.getJSON('/search_name', {
+                        name: $("#search").val(),
+
+                    }, function (json) {
+                        //console.log(json);
+                        try {
+                            $('#guanxi').show();
+                            $('#profile_0').show();
+                            option.series[0].nodes = json.data.map(function (node, idx) {
+                                node.id = idx;
+                                node.name = node.name.replace('_', ' ');
+                                return node;
+                            });
+                            $('#note').hide();
+                            $('#item').hide();
+                        } catch (exception) {
+                            $('#note').show();
+                            $('#item').show();
+                            $('#guanxi').hide();
+                            $('#profile_0').hide();
+
+                            if (json.length == 0) {
+                                $('#note').html(`<p> Sorry, we can not find <b>${$("#search").val()} </b>this concept.</p>`);
+                            } else {
+                                $('#note').html(`
+                                    <p> Sorry, we can not find <b>${$("#search").val()}</b> this concept.</p>
+                                    <p>Maybe you can search ：</p>`)
+                                $('#item').empty();
+                                for (let i = 0; i < json.length; i++) {
+                                    $('#item').append('<li>' + json[i] + '</li>');
+                                }
+                            }
+                        }
+                        option.series[0].links = json.links;
+                        myChart.setOption(option, true);
+                        $("#tagsList").hide();
+
+                    });
+                }
+
+                $(".col-lg-3 a").click(function () {
+                    $.getJSON('/search_name', {
+                        name: $(this).attr("data"),
+                    }, function (json) {
+                        option.series[0].nodes = json.data.map(function (node, idx) {
+                            node.id = idx;
+                            return node;
+                        });
+                        $('#guanxi').show();
+                        option.series[0].links = json.links;
+                        myChart.setOption(option, true);
+                        $("#tagsList").hide();
+                    })
+                });
+            </script>
+
+        </div>
+
+    </div>
+
+</div>
+
+{% endblock %}

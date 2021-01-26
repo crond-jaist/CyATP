@@ -1,0 +1,192 @@
+{% extends 'base.html' %}
+
+{%block head%}
+<title>Concept Page</title>
+<script src="../static/js/echarts.min.js"></script>
+<script src="../static/js/nifty-demo.min.js"></script>
+
+{% endblock%}
+
+
+{% block content %}
+
+<div id="container" class="effect aside-float aside-bright mainnav-sm">
+    <div class="boxed">
+        <div id="content-container">
+            <div id="page-content">
+                <div class="row" style="height: 1000px;" id="guanxi">
+                    <script type="text/javascript">
+                        window.onresize = function () {
+                            myChart.resize();
+                        }
+
+                        $.ajaxSetup({async: false});
+                        // echart initialization
+                        var myChart = echarts.init(document.getElementById("guanxi"));
+                        myChart.showLoading();
+
+                        var rela = {"data": [], "links": []};
+                        var file_url = '../static/js/concept_map.json'
+                        // load map
+                        $.getJSON(file_url, function (json) {
+                            rela = json;
+                        });
+
+                        myChart.hideLoading();
+
+                        option = {
+                            // backgroundColor: "white",
+                            title: {
+                                text: '  Concept Map',
+                                textStyle: {
+                                    // color: "white",
+                                    fontStyle: 'italic',
+                                    fontSize: 50,
+                                    fontWeight: "bolder",
+                                }
+                            },
+
+                            toolbox: { //Visual toolbox
+                                show: true,
+                                feature: {
+                                    dataView: {
+                                        show: true
+                                    },
+                                    restore: {
+                                        show: true
+                                    },
+                                    saveAsImage: {
+                                        show: true
+                                    },
+                                    dataZoom: {
+                                        show: true
+                                    },
+
+                                }
+                            },
+
+                            animation: false,
+                            animationDurationUpdate: false,
+                            animationEasingUpdate: false,
+
+                            legend: {
+                                x: "center",
+                                show: true,
+                                data: ["level0", "level1", "level2", "level3", "level4", "level5", "level6", "level7"],
+                                selected:{"level3":false, "level4":false, "level5":false, "level6":false, "level7":false}
+                            },
+                            series: [
+                                {
+                                    type: 'graph',
+                                    layout: 'force',
+                                    // each nodes size
+                                    animation: false,
+                                    symbolSize: 45,
+                                    edgeSymbol: ['circle', 'arrow'],
+                                    edgeSymbolSize: [4, 4],
+                                    edgeLabel: {
+                                        normal: {
+                                            show: true,
+                                            textStyle: {
+                                                fontSize: 10,
+                                                color: 'black'
+                                            },
+                                            formatter: "{c}"
+                                        }
+                                    },
+
+                                    force: {
+                                        repulsion: 2500,
+                                        edgeLength: [10, 100],
+                                        layoutAnimation: false
+                                    },
+
+                                    focusNodeAdjacency: true,
+                                    // Whether the drag rebounds
+                                    draggable: false,
+                                    roam: true,
+
+                                    categories: [{
+                                        name: 'level0',
+                                    }, {
+                                        name: 'level1',
+                                    }, {
+                                        name: 'level2',
+                                    }, {
+                                        name: 'level3',
+                                    }, {
+                                        name: 'level4',
+                                    }, {
+                                        name: 'level5',
+                                    }, {
+                                        name: 'level6',
+                                    }, {
+                                        name: 'level7'
+                                    }
+                                    ],
+
+                                    // Format the node label
+                                    label: {
+                                        normal: {
+                                            show: true,
+                                            position: 'right',
+                                            textStyle: {
+                                                fontSize: 15,
+                                                fontWeight: 'bolder',
+                                                color: 'black'
+                                            },
+                                        },
+
+
+                                    },
+
+                                    force: {
+                                        // Spacing between points
+                                        repulsion: 1000,
+                                        gravity: 0.1
+
+                                    },
+
+                                    tooltip: {
+                                        textStyle: {color: 'black', fontSize: 15, fontWeight: 'bold'},
+                                        formatter: function (node) { // Distinguish between connections and nodes, and additional numbers are displayed on the nodes
+                                            if (!node.value) {
+                                                return node.data.name;
+                                            } else {
+                                                return node.data.name + ":" + node.data.showNum;
+                                            }
+
+                                        },
+                                    },
+
+                                    lineStyle: {
+                                        normal: {
+                                            opacity: 0.9,
+                                            width: 1,
+                                            curveness: 0.3
+                                        }
+                                    },
+
+                                    // load data
+                                    nodes: rela.data.map(function (node, idx) {
+                                        node.id = idx;
+                                        return node;
+                                    }),
+
+                                    // load relationship
+                                    links: rela.links,
+
+                                }
+                            ]
+                        };
+                        myChart.setOption(option, true);
+                    </script>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{% endblock %}
