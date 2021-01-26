@@ -1,0 +1,3 @@
+Flask==1.1.2
+py2neo==4.3.0
+Flask_Share==0.1.1
