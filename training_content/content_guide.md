@@ -20,7 +20,7 @@ methodology outlined in the figure below, as follows:
 * 278 quiz questions and 28 crossword puzzle clues (for the 126 concepts on the 0-2 level) created using Natural
   Language Generation (NLG) techniques
 
-<div align=center><img src='https://github.com/blab-private/CyATP/blob/master/static/images/training_content_overview.png'></div>
+<div align=center><img src='https://github.com/crond-jaist/CyATP/blob/master/static/images/training_content_overview.png'></div>
 
 
 ## Training Content Generation

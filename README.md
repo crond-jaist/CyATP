@@ -20,12 +20,12 @@ concepts they want to study. They can also use the **Take Quiz** and
 front end of the CyATP platform is developed using Bootstrap and
 jQuery, and the back end employs Flask and Neo4j.
 
-<div align=center><img src='https://github.com/blab-private/CyATP/blob/master/static/images/platform_architecture.png'></div>
+<div align=center><img src='https://github.com/crond-jaist/CyATP/blob/master/static/images/platform_architecture.png'></div>
 
 CyATP already includes some pregenerated awareness training
 content. To learn more about this content, and about how to add new
 training content to the database, see the [Training Content
-Guide](https://github.com/blab-private/CyATP/blob/master/training_content/content_guide.md).
+Guide](https://github.com/crond-jaist/CyATP/blob/master/training_content/content_guide.md).
 
 
 ## Prerequisites
@@ -58,7 +58,7 @@ The following optional step can also be performed:
 To set up CyATP, follow the steps below:
 
 1. **Install the latest version of CyATP.** Use the
-[releases](https://github.com/blab-private/CyATP/releases) page to
+[releases](https://github.com/crond-jaist/CyATP/releases) page to
 download the source code archive of the latest version of the training
 platform and extract it on your computer.
 
@@ -124,7 +124,7 @@ http://127.0.0.1:5000/. The screenshot below displays the top page,
 which provides an overview of CyATP and the functions of each
 additional page.
 
-<div align=center><img width='600' src='https://github.com/blab-private/CyATP/blob/master/static/images/cyatp_screenshot.png'></div>
+<div align=center><img width='600' src='https://github.com/crond-jaist/CyATP/blob/master/static/images/cyatp_screenshot.png'></div>
 
 ### Configuration
 
