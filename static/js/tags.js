@@ -167,7 +167,7 @@ function positionAll()
 	var aTmp=[];
 	var oFragment=document.createDocumentFragment();
 	
-	//�������
+
 	for(i=0;i<aA.length;i++)
 	{
 		aTmp.push(aA[i]);
@@ -199,7 +199,7 @@ function positionAll()
 			phi = Math.random()*(Math.PI);
 			theta = Math.random()*(2*Math.PI);
 		}
-		//����任
+
 		mcList[i-1].cx = radius * Math.cos(theta)*Math.sin(phi);
 		mcList[i-1].cy = radius * Math.sin(theta)*Math.sin(phi);
 		mcList[i-1].cz = radius * Math.cos(phi);
