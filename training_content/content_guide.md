@@ -55,8 +55,8 @@ the proposed choices for each quiz question.
 To regenerate quiz question data if concept data was changed/updated,
 follow the following steps:
 
-1. Extract the model file archive `CyATP_LargeFiles` provided as asset with the
-CyATP release into the directory
+1. Extract the content of the `model_data.zip` archive provided as
+asset with the CyATP release into the directory
 `training_content/generate_content/generate_quiz/` inside the CyATP
 folder.
 
