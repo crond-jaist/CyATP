@@ -6,8 +6,11 @@ makes use of Natural Language Generation (NLG) techniques to
 automatically generate the training content; the serious game approach
 is employed for learning purposes. Using this platform, learners can
 increase their security awareness knowledge and put it to use in their
-daily life. CyATP is being developed by the Cyber Range Organization
-and Design ([CROND](https://www.jaist.ac.jp/misc/crond/index-en.html))
+daily life. The included training content is comprised of about 2500
+computer security concepts and definitions, 278 quiz questions and 10
+crossword puzzles. CyATP is being developed by the Cyber Range
+Organization and Design
+([CROND](https://www.jaist.ac.jp/misc/crond/index-en.html))
 NEC-endowed chair at the Japan Advanced Institute of Science and
 Technology ([JAIST](https://www.jaist.ac.jp/english/)) in Ishikawa,
 Japan.
