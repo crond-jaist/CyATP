@@ -18,8 +18,8 @@ methodology outlined in the figure below, as follows:
 * 2315 concept definitions extracted from Wikipedia for the above
   concepts (when available)
 * 278 quiz questions and 10 crossword puzzles with a total of 28 clues
-  (for the 126 concepts on the 0-2 level) that are produced using
-  Natural Language Generation (NLG) techniques
+  for the top 126 concepts, produced using Natural Language Generation
+  (NLG) techniques
 
 <div align=center><img src='https://github.com/crond-jaist/CyATP/blob/master/static/images/training_content_overview.png'></div>
 
