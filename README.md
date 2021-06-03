@@ -157,7 +157,8 @@ For a research background regarding CyATP, please refer to the
 following document:
 
 * Y. Zeng, "Content Generation and Serious Game Implementation for
-  Security Awareness Training", Master's thesis, March 2021.
+  Security Awareness Training", Master's thesis, March 2021. 
+  https://hdl.handle.net/10119/17105
 
 For a list of contributors to this project, check the file
 CONTRIBUTORS included with the source code.
